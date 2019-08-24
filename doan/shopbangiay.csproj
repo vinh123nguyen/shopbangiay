@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{37D81DAA-93A3-47A7-B122-B10E6C648992}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>doan</RootNamespace>
+    <AssemblyName>doan</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.52">
+      <HintPath>..\..\..\tool bunifu\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.DotNetBar2, Version=14.1.0.28, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formmain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formmain.Designer.cs">
+      <DependentUpon>Formmain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formmain.resx">
+      <DependentUpon>Formmain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="backgroud\background-1462755_960_720.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icon\icon-1498825_960_720.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icon\tao-icon-shutdown-hoac-restart-ngoai-desktop-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="backgroud\md_5aa90a60b13b9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icon\power-off.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icon\man.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icon\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icon\user1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icon\login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icon\password.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="backgroud\papers.co-sf72-rainbow-season-summer-fun-gradation-blur-33-iphone6-wallpaper-250x444.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="backgroud\abstract-low-poly-design-background_1048-8196.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="backgroud\tải xuống.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icon\multiply_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icon\full_screen_filled_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icon\minimize_window_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icon\menu_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icon\delete_sign_96px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icon\images5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icon\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icon\circled_right_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icon\chevron_right_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icon\checkout_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icon\small_business_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icon\employee_card_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icon\client_company_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icon\commercial_development_management_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icon\report_card_64px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icon\shopping_cart_100px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3D Web Icon    %28453%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3D Web Icon    %28239%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3D Web Icon    %2827%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3D Web Icon    %28450%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3D Web Icon    %28510%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3D Web Icon    %28534%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3D Web Icon    %28297%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3D Web Icon    %28613%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3D Web Icon    %281%29.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
