@@ -7,3 +7,6 @@ E:\dulieu\doan_winnc\doan\shopbangiay\doan\obj\Debug\doan.Form_DN.resources
 E:\dulieu\doan_winnc\doan\shopbangiay\doan\obj\Debug\doan.Formmain.resources
 E:\dulieu\doan_winnc\doan\shopbangiay\doan\obj\Debug\doan.Properties.Resources.resources
 E:\dulieu\doan_winnc\doan\shopbangiay\doan\obj\Debug\shopbangiay.csproj.GenerateResource.Cache
+F:\NAM4\shopbangiay\doan\bin\Debug\doan.exe.config
+F:\NAM4\shopbangiay\doan\obj\Debug\doan.exe
+F:\NAM4\shopbangiay\doan\obj\Debug\doan.pdb
