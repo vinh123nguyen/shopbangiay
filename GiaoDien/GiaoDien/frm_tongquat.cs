@@ -61,7 +61,7 @@ namespace GiaoDien
         {
 
         }
-        public void Export(DataTable dt, string sheetName, string title)
+        public void Export(DataTable dt)
         {
 
             //Tạo các đối tượng Excel
@@ -92,45 +92,45 @@ namespace GiaoDien
 
             oSheet = (Microsoft.Office.Interop.Excel.Worksheet)oSheets.get_Item(1);
 
-            oSheet.Name = sheetName;
+            oSheet.Name = "Sheet1";
 
             // Tạo phần đầu nếu muốn
 
-            Microsoft.Office.Interop.Excel.Range head = oSheet.get_Range("A1", "C1");
+            //Microsoft.Office.Interop.Excel.Range head = oSheet.get_Range("A1", "C1");
 
-            head.MergeCells = true;
+            //head.MergeCells = true;
 
-            head.Value2 = title;
+            //head.Value2 = title;
 
-            head.Font.Bold = true;
+            //head.Font.Bold = true;
 
-            head.Font.Name = "Tahoma";
+            //head.Font.Name = "Tahoma";
 
-            head.Font.Size = "18";
+            //head.Font.Size = "18";
 
-            head.HorizontalAlignment = Microsoft.Office.Interop.Excel.XlHAlign.xlHAlignCenter;
+            //head.HorizontalAlignment = Microsoft.Office.Interop.Excel.XlHAlign.xlHAlignCenter;
 
             // Tạo tiêu đề cột 
 
-            Microsoft.Office.Interop.Excel.Range cl1 = oSheet.get_Range("A3", "A3");
+            Microsoft.Office.Interop.Excel.Range cl1 = oSheet.get_Range("A1", "A1");
 
             cl1.Value2 = "Mã đơn vị";
 
             cl1.ColumnWidth = 13.5;
 
-            Microsoft.Office.Interop.Excel.Range cl2 = oSheet.get_Range("B3", "B3");
+            Microsoft.Office.Interop.Excel.Range cl2 = oSheet.get_Range("B1", "B1");
 
             cl2.Value2 = "Tên đơn vị";
 
             cl2.ColumnWidth = 25.0;
 
-            Microsoft.Office.Interop.Excel.Range cl3 = oSheet.get_Range("C3", "C3");
+            Microsoft.Office.Interop.Excel.Range cl3 = oSheet.get_Range("C1", "C1");
 
             cl3.Value2 = "Chức năng";
 
             cl3.ColumnWidth = 40.0;
 
-            Microsoft.Office.Interop.Excel.Range rowHead = oSheet.get_Range("A3", "C3");
+            Microsoft.Office.Interop.Excel.Range rowHead = oSheet.get_Range("A1", "C1");
 
             rowHead.Font.Bold = true;
 
@@ -210,7 +210,7 @@ namespace GiaoDien
             // Bạn nào gán trực tiếp vào DataGridView thì ép kiểu DataSource của
             // DataGridView nhé 
             DataTable dt = (DataTable)dtgv_spbanchay.DataSource;
-            Export(dt, "Danh sach", "DANH SÁCH CÁC ĐƠN VỊ");
+            Export(dt);
         }
     }
 }

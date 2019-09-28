@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            BunifuAnimatorNS.Animation animation8 = new BunifuAnimatorNS.Animation();
+            BunifuAnimatorNS.Animation animation1 = new BunifuAnimatorNS.Animation();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Formmain));
             this.bunifuTransition1 = new BunifuAnimatorNS.BunifuTransition(this.components);
             this.panel3 = new System.Windows.Forms.Panel();
@@ -61,6 +61,7 @@
             this.PHANQUYEN = new DevComponents.DotNetBar.Metro.MetroTileItem();
             this.BC = new DevComponents.DotNetBar.Metro.MetroTileItem();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.tenmay = new DevComponents.DotNetBar.LabelX();
             this.bfb_ht = new Bunifu.Framework.UI.BunifuFlatButton();
             this.bfb_dx = new Bunifu.Framework.UI.BunifuFlatButton();
             this.labelX3 = new DevComponents.DotNetBar.LabelX();
@@ -89,7 +90,6 @@
             this.metroTileItem10 = new DevComponents.DotNetBar.Metro.MetroTileItem();
             this.metroTileItem9 = new DevComponents.DotNetBar.Metro.MetroTileItem();
             this.metroTileItem2 = new DevComponents.DotNetBar.Metro.MetroTileItem();
-            this.tenmay = new DevComponents.DotNetBar.LabelX();
             this.panel3.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
@@ -105,22 +105,22 @@
             // 
             this.bunifuTransition1.AnimationType = BunifuAnimatorNS.AnimationType.VertSlide;
             this.bunifuTransition1.Cursor = null;
-            animation8.AnimateOnlyDifferences = true;
-            animation8.BlindCoeff = ((System.Drawing.PointF)(resources.GetObject("animation8.BlindCoeff")));
-            animation8.LeafCoeff = 0F;
-            animation8.MaxTime = 1F;
-            animation8.MinTime = 0F;
-            animation8.MosaicCoeff = ((System.Drawing.PointF)(resources.GetObject("animation8.MosaicCoeff")));
-            animation8.MosaicShift = ((System.Drawing.PointF)(resources.GetObject("animation8.MosaicShift")));
-            animation8.MosaicSize = 0;
-            animation8.Padding = new System.Windows.Forms.Padding(0);
-            animation8.RotateCoeff = 0F;
-            animation8.RotateLimit = 0F;
-            animation8.ScaleCoeff = ((System.Drawing.PointF)(resources.GetObject("animation8.ScaleCoeff")));
-            animation8.SlideCoeff = ((System.Drawing.PointF)(resources.GetObject("animation8.SlideCoeff")));
-            animation8.TimeCoeff = 0F;
-            animation8.TransparencyCoeff = 0F;
-            this.bunifuTransition1.DefaultAnimation = animation8;
+            animation1.AnimateOnlyDifferences = true;
+            animation1.BlindCoeff = ((System.Drawing.PointF)(resources.GetObject("animation1.BlindCoeff")));
+            animation1.LeafCoeff = 0F;
+            animation1.MaxTime = 1F;
+            animation1.MinTime = 0F;
+            animation1.MosaicCoeff = ((System.Drawing.PointF)(resources.GetObject("animation1.MosaicCoeff")));
+            animation1.MosaicShift = ((System.Drawing.PointF)(resources.GetObject("animation1.MosaicShift")));
+            animation1.MosaicSize = 0;
+            animation1.Padding = new System.Windows.Forms.Padding(0);
+            animation1.RotateCoeff = 0F;
+            animation1.RotateLimit = 0F;
+            animation1.ScaleCoeff = ((System.Drawing.PointF)(resources.GetObject("animation1.ScaleCoeff")));
+            animation1.SlideCoeff = ((System.Drawing.PointF)(resources.GetObject("animation1.SlideCoeff")));
+            animation1.TimeCoeff = 0F;
+            animation1.TransparencyCoeff = 0F;
+            this.bunifuTransition1.DefaultAnimation = animation1;
             // 
             // panel3
             // 
@@ -183,12 +183,13 @@
             this.bunifuTransition1.SetDecoration(this.panelEx_hienthitongquat, BunifuAnimatorNS.DecorationType.None);
             this.panelEx_hienthitongquat.DisabledBackColor = System.Drawing.Color.Empty;
             this.panelEx_hienthitongquat.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panelEx_hienthitongquat.Location = new System.Drawing.Point(335, 28);
+            this.panelEx_hienthitongquat.Location = new System.Drawing.Point(58, 28);
             this.panelEx_hienthitongquat.Name = "panelEx_hienthitongquat";
-            this.panelEx_hienthitongquat.Size = new System.Drawing.Size(664, 701);
+            this.panelEx_hienthitongquat.Size = new System.Drawing.Size(941, 701);
             this.panelEx_hienthitongquat.Style.Alignment = System.Drawing.StringAlignment.Center;
             this.panelEx_hienthitongquat.Style.BackColor1.Color = System.Drawing.Color.RosyBrown;
             this.panelEx_hienthitongquat.Style.BackColor2.Color = System.Drawing.Color.WhiteSmoke;
+            this.panelEx_hienthitongquat.Style.BackgroundImage = global::GiaoDien.Properties.Resources._68_background_dep_danh_cho_moi_linh_vuc_190;
             this.panelEx_hienthitongquat.Style.Border = DevComponents.DotNetBar.eBorderType.SingleLine;
             this.panelEx_hienthitongquat.Style.BorderColor.ColorSchemePart = DevComponents.DotNetBar.eColorSchemePart.PanelBorder;
             this.panelEx_hienthitongquat.Style.ForeColor.ColorSchemePart = DevComponents.DotNetBar.eColorSchemePart.PanelText;
@@ -201,7 +202,8 @@
             // 
             // 
             // 
-            this.HT.BackgroundStyle.BackColor = System.Drawing.Color.Transparent;
+            this.HT.BackgroundStyle.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(85)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
+            this.HT.BackgroundStyle.BackColor2 = System.Drawing.Color.FromArgb(((int)(((byte)(85)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.HT.BackgroundStyle.Class = "MetroTilePanel";
             this.HT.BackgroundStyle.CornerType = DevComponents.DotNetBar.eCornerType.Square;
             this.HT.ContainerControlProcessDialogKey = true;
@@ -223,10 +225,11 @@
             this.HT.ReserveLeftSpace = false;
             this.HT.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.HT.ScrollBarAppearance = DevComponents.DotNetBar.eScrollBarAppearance.ApplicationScroll;
-            this.HT.Size = new System.Drawing.Size(664, 701);
+            this.HT.Size = new System.Drawing.Size(941, 701);
             this.HT.Style = DevComponents.DotNetBar.eDotNetBarStyle.OfficeXP;
             this.HT.TabIndex = 1;
             this.HT.Text = "metroTilePanel1";
+            this.HT.ItemClick += new System.EventHandler(this.HT_ItemClick);
             // 
             // BH
             // 
@@ -666,11 +669,26 @@
             this.panel1.Dock = System.Windows.Forms.DockStyle.Left;
             this.panel1.Location = new System.Drawing.Point(0, 28);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(335, 701);
+            this.panel1.Size = new System.Drawing.Size(58, 701);
             this.panel1.TabIndex = 8;
             this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
             this.panel1.MouseDown += new System.Windows.Forms.MouseEventHandler(this.panel1_MouseDown);
             this.panel1.MouseMove += new System.Windows.Forms.MouseEventHandler(this.panel1_MouseMove);
+            // 
+            // tenmay
+            // 
+            // 
+            // 
+            // 
+            this.tenmay.BackgroundStyle.CornerType = DevComponents.DotNetBar.eCornerType.Square;
+            this.bunifuTransition1.SetDecoration(this.tenmay, BunifuAnimatorNS.DecorationType.None);
+            this.tenmay.Font = new System.Drawing.Font("Times New Roman", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tenmay.Location = new System.Drawing.Point(64, 6);
+            this.tenmay.Name = "tenmay";
+            this.tenmay.SingleLineColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.tenmay.Size = new System.Drawing.Size(171, 31);
+            this.tenmay.Style = DevComponents.DotNetBar.eDotNetBarStyle.OfficeXP;
+            this.tenmay.TabIndex = 42;
             // 
             // bfb_ht
             // 
@@ -743,7 +761,7 @@
             this.bfb_dx.OnHovercolor = System.Drawing.Color.Transparent;
             this.bfb_dx.OnHoverTextColor = System.Drawing.Color.White;
             this.bfb_dx.selected = false;
-            this.bfb_dx.Size = new System.Drawing.Size(335, 53);
+            this.bfb_dx.Size = new System.Drawing.Size(58, 53);
             this.bfb_dx.TabIndex = 40;
             this.bfb_dx.Text = "Đăng xuất";
             this.bfb_dx.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -1336,21 +1354,6 @@
             // 
             this.metroTileItem2.TileStyle.CornerType = DevComponents.DotNetBar.eCornerType.Square;
             this.metroTileItem2.TitleTextFont = new System.Drawing.Font("Times New Roman", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            // 
-            // tenmay
-            // 
-            // 
-            // 
-            // 
-            this.tenmay.BackgroundStyle.CornerType = DevComponents.DotNetBar.eCornerType.Square;
-            this.bunifuTransition1.SetDecoration(this.tenmay, BunifuAnimatorNS.DecorationType.None);
-            this.tenmay.Font = new System.Drawing.Font("Times New Roman", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tenmay.Location = new System.Drawing.Point(64, 6);
-            this.tenmay.Name = "tenmay";
-            this.tenmay.SingleLineColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.tenmay.Size = new System.Drawing.Size(171, 31);
-            this.tenmay.Style = DevComponents.DotNetBar.eDotNetBarStyle.OfficeXP;
-            this.tenmay.TabIndex = 42;
             // 
             // Formmain
             // 

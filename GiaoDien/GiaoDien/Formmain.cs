@@ -513,6 +513,11 @@ namespace GiaoDien
         {
 
         }
+
+        private void HT_ItemClick(object sender, EventArgs e)
+        {
+
+        }
        
     }
 }

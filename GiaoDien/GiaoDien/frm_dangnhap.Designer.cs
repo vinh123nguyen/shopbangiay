@@ -51,7 +51,7 @@
             // 
             // panel1
             // 
-            this.panel1.BackgroundImage = global::GiaoDien.Properties.Resources.thamlong8_grande;
+            this.panel1.BackgroundImage = global::GiaoDien.Properties.Resources.images2;
             this.panel1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.panel1.Controls.Add(this.groupPanel1);
             this.panel1.Controls.Add(this.panel2);
@@ -102,6 +102,7 @@
             // 
             this.groupPanel1.StyleMouseOver.CornerType = DevComponents.DotNetBar.eCornerType.Square;
             this.groupPanel1.TabIndex = 23;
+            this.groupPanel1.Click += new System.EventHandler(this.groupPanel1_Click);
             // 
             // groupPanel4
             // 
@@ -278,7 +279,7 @@
             // 
             // panel2
             // 
-            this.panel2.BackColor = System.Drawing.Color.Silver;
+            this.panel2.BackColor = System.Drawing.Color.DarkSlateBlue;
             this.panel2.Controls.Add(this.pictureBox2);
             this.panel2.Controls.Add(this.bunifuCustomLabel1);
             this.panel2.Dock = System.Windows.Forms.DockStyle.Top;
