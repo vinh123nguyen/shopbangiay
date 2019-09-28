@@ -106,7 +106,7 @@
             this.panel3.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel3.Location = new System.Drawing.Point(0, 0);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(885, 28);
+            this.panel3.Size = new System.Drawing.Size(943, 28);
             this.panel3.TabIndex = 57;
             // 
             // panel4
@@ -125,7 +125,7 @@
             this.panel5.Controls.Add(this.pictureBox2);
             this.panel5.Controls.Add(this.pictureBox3);
             this.panel5.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel5.Location = new System.Drawing.Point(706, 0);
+            this.panel5.Location = new System.Drawing.Point(764, 0);
             this.panel5.Name = "panel5";
             this.panel5.Size = new System.Drawing.Size(179, 28);
             this.panel5.TabIndex = 3;
@@ -180,9 +180,9 @@
             this.tabPane1.Pages.AddRange(new DevExpress.XtraBars.Navigation.NavigationPageBase[] {
             this.tabNavigationPage1,
             this.tabNavigationPage2});
-            this.tabPane1.RegularSize = new System.Drawing.Size(885, 487);
-            this.tabPane1.SelectedPage = this.tabNavigationPage2;
-            this.tabPane1.Size = new System.Drawing.Size(885, 487);
+            this.tabPane1.RegularSize = new System.Drawing.Size(943, 487);
+            this.tabPane1.SelectedPage = this.tabNavigationPage1;
+            this.tabPane1.Size = new System.Drawing.Size(943, 487);
             this.tabPane1.TabIndex = 58;
             this.tabPane1.Text = "tabPane1";
             // 
@@ -191,7 +191,7 @@
             this.tabNavigationPage1.Caption = "Biên Bản sự cố";
             this.tabNavigationPage1.Controls.Add(this.groupBox2);
             this.tabNavigationPage1.Name = "tabNavigationPage1";
-            this.tabNavigationPage1.Size = new System.Drawing.Size(867, 442);
+            this.tabNavigationPage1.Size = new System.Drawing.Size(925, 442);
             // 
             // groupBox2
             // 
@@ -200,7 +200,7 @@
             this.groupBox2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.groupBox2.Location = new System.Drawing.Point(0, 0);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(867, 442);
+            this.groupBox2.Size = new System.Drawing.Size(925, 442);
             this.groupBox2.TabIndex = 0;
             this.groupBox2.TabStop = false;
             // 
@@ -212,7 +212,7 @@
             this.groupBox5.Dock = System.Windows.Forms.DockStyle.Fill;
             this.groupBox5.Location = new System.Drawing.Point(3, 17);
             this.groupBox5.Name = "groupBox5";
-            this.groupBox5.Size = new System.Drawing.Size(861, 422);
+            this.groupBox5.Size = new System.Drawing.Size(919, 422);
             this.groupBox5.TabIndex = 56;
             this.groupBox5.TabStop = false;
             // 
@@ -226,7 +226,7 @@
             this.groupPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.groupPanel1.Location = new System.Drawing.Point(3, 54);
             this.groupPanel1.Name = "groupPanel1";
-            this.groupPanel1.Size = new System.Drawing.Size(466, 365);
+            this.groupPanel1.Size = new System.Drawing.Size(524, 365);
             // 
             // 
             // 
@@ -270,7 +270,7 @@
             this.dataGridView1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.dataGridView1.Location = new System.Drawing.Point(0, 0);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(460, 343);
+            this.dataGridView1.Size = new System.Drawing.Size(518, 343);
             this.dataGridView1.TabIndex = 17;
             // 
             // dataGridViewTextBoxColumn1
@@ -301,7 +301,7 @@
             // 
             this.groupBox3.Controls.Add(this.groupPanel3);
             this.groupBox3.Dock = System.Windows.Forms.DockStyle.Right;
-            this.groupBox3.Location = new System.Drawing.Point(469, 54);
+            this.groupBox3.Location = new System.Drawing.Point(527, 54);
             this.groupBox3.Name = "groupBox3";
             this.groupBox3.Size = new System.Drawing.Size(389, 365);
             this.groupBox3.TabIndex = 75;
@@ -442,7 +442,7 @@
             this.panelEx1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panelEx1.Location = new System.Drawing.Point(3, 17);
             this.panelEx1.Name = "panelEx1";
-            this.panelEx1.Size = new System.Drawing.Size(855, 37);
+            this.panelEx1.Size = new System.Drawing.Size(913, 37);
             this.panelEx1.Style.Alignment = System.Drawing.StringAlignment.Center;
             this.panelEx1.Style.BackColor1.Color = System.Drawing.Color.DarkKhaki;
             this.panelEx1.Style.BackColor2.Color = System.Drawing.Color.Transparent;
@@ -459,7 +459,7 @@
             this.buttonX3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.buttonX3.ColorTable = DevComponents.DotNetBar.eButtonColor.Blue;
             this.buttonX3.Dock = System.Windows.Forms.DockStyle.Right;
-            this.buttonX3.Location = new System.Drawing.Point(761, 0);
+            this.buttonX3.Location = new System.Drawing.Point(819, 0);
             this.buttonX3.Name = "buttonX3";
             this.buttonX3.Size = new System.Drawing.Size(94, 37);
             this.buttonX3.Style = DevComponents.DotNetBar.eDotNetBarStyle.Office2003;
@@ -473,7 +473,7 @@
             this.tabNavigationPage2.Caption = "Chi tiết biên bản sự cố";
             this.tabNavigationPage2.Controls.Add(this.groupBox4);
             this.tabNavigationPage2.Name = "tabNavigationPage2";
-            this.tabNavigationPage2.Size = new System.Drawing.Size(867, 442);
+            this.tabNavigationPage2.Size = new System.Drawing.Size(925, 442);
             // 
             // groupBox4
             // 
@@ -484,7 +484,7 @@
             this.groupBox4.Dock = System.Windows.Forms.DockStyle.Fill;
             this.groupBox4.Location = new System.Drawing.Point(0, 0);
             this.groupBox4.Name = "groupBox4";
-            this.groupBox4.Size = new System.Drawing.Size(867, 442);
+            this.groupBox4.Size = new System.Drawing.Size(925, 442);
             this.groupBox4.TabIndex = 63;
             this.groupBox4.TabStop = false;
             // 
@@ -498,7 +498,7 @@
             this.groupPanel4.Dock = System.Windows.Forms.DockStyle.Fill;
             this.groupPanel4.Location = new System.Drawing.Point(3, 54);
             this.groupPanel4.Name = "groupPanel4";
-            this.groupPanel4.Size = new System.Drawing.Size(562, 385);
+            this.groupPanel4.Size = new System.Drawing.Size(525, 385);
             // 
             // 
             // 
@@ -541,7 +541,7 @@
             this.dataGridView2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.dataGridView2.Location = new System.Drawing.Point(0, 0);
             this.dataGridView2.Name = "dataGridView2";
-            this.dataGridView2.Size = new System.Drawing.Size(556, 363);
+            this.dataGridView2.Size = new System.Drawing.Size(519, 363);
             this.dataGridView2.TabIndex = 15;
             // 
             // dataGridViewTextBoxColumn3
@@ -566,9 +566,9 @@
             // 
             this.groupBox1.Controls.Add(this.groupPanel2);
             this.groupBox1.Dock = System.Windows.Forms.DockStyle.Right;
-            this.groupBox1.Location = new System.Drawing.Point(565, 54);
+            this.groupBox1.Location = new System.Drawing.Point(528, 54);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(299, 385);
+            this.groupBox1.Size = new System.Drawing.Size(394, 385);
             this.groupBox1.TabIndex = 79;
             this.groupBox1.TabStop = false;
             // 
@@ -586,7 +586,7 @@
             this.groupPanel2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.groupPanel2.Location = new System.Drawing.Point(3, 17);
             this.groupPanel2.Name = "groupPanel2";
-            this.groupPanel2.Size = new System.Drawing.Size(293, 365);
+            this.groupPanel2.Size = new System.Drawing.Size(388, 365);
             // 
             // 
             // 
@@ -685,7 +685,7 @@
             this.panelEx2.Dock = System.Windows.Forms.DockStyle.Top;
             this.panelEx2.Location = new System.Drawing.Point(3, 17);
             this.panelEx2.Name = "panelEx2";
-            this.panelEx2.Size = new System.Drawing.Size(861, 37);
+            this.panelEx2.Size = new System.Drawing.Size(919, 37);
             this.panelEx2.Style.Alignment = System.Drawing.StringAlignment.Center;
             this.panelEx2.Style.BackColor1.Color = System.Drawing.Color.DarkKhaki;
             this.panelEx2.Style.BackColor2.Color = System.Drawing.Color.Transparent;
@@ -702,7 +702,7 @@
             this.buttonX1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.buttonX1.ColorTable = DevComponents.DotNetBar.eButtonColor.Blue;
             this.buttonX1.Dock = System.Windows.Forms.DockStyle.Right;
-            this.buttonX1.Location = new System.Drawing.Point(726, 0);
+            this.buttonX1.Location = new System.Drawing.Point(784, 0);
             this.buttonX1.Name = "buttonX1";
             this.buttonX1.Size = new System.Drawing.Size(135, 37);
             this.buttonX1.Style = DevComponents.DotNetBar.eDotNetBarStyle.Office2003;
@@ -715,7 +715,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(885, 515);
+            this.ClientSize = new System.Drawing.Size(943, 515);
             this.Controls.Add(this.tabPane1);
             this.Controls.Add(this.panel3);
             this.Name = "BBSuCo";

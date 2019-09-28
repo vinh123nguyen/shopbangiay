@@ -28,4 +28,54 @@ E:\Nam4\WinNangCao\GiaoDien\GiaoDien\obj\Debug\GiaoDien.csproj.GenerateResource.
 E:\Nam4\WinNangCao\GiaoDien\GiaoDien\obj\Debug\GiaoDien.exe.licenses
 E:\Nam4\WinNangCao\GiaoDien\GiaoDien\obj\Debug\GiaoDien.exe
 E:\Nam4\WinNangCao\GiaoDien\GiaoDien\obj\Debug\GiaoDien.pdb
-E:\Nam4\WinNangCao\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_QLNhomnguoiDung.resources
+E:\dulieu\winnc\GiaoDien (1)\GiaoDien\GiaoDien\bin\Debug\GiaoDien.exe.config
+E:\dulieu\winnc\GiaoDien (1)\GiaoDien\GiaoDien\obj\Debug\GiaoDien.exe
+E:\dulieu\winnc\GiaoDien (1)\GiaoDien\GiaoDien\obj\Debug\GiaoDien.pdb
+E:\dulieu\winnc\GiaoDien (1)\GiaoDien\GiaoDien\obj\Debug\GiaoDien.csprojResolveAssemblyReference.cache
+E:\dulieu\winnc\GiaoDien (1)\GiaoDien\GiaoDien\obj\Debug\GiaoDien.BBSuCo.resources
+E:\dulieu\winnc\GiaoDien (1)\GiaoDien\GiaoDien\obj\Debug\GiaoDien.CTHD.resources
+E:\dulieu\winnc\GiaoDien (1)\GiaoDien\GiaoDien\obj\Debug\GiaoDien.Formmain.resources
+E:\dulieu\winnc\GiaoDien (1)\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_BaoHanh.resources
+E:\dulieu\winnc\GiaoDien (1)\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_ChiTietNhanVien.resources
+E:\dulieu\winnc\GiaoDien (1)\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_DDHKhachHang.resources
+E:\dulieu\winnc\GiaoDien (1)\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_KhuyenMai.resources
+E:\dulieu\winnc\GiaoDien (1)\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_NHANVIEN.resources
+E:\dulieu\winnc\GiaoDien (1)\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_ThongKe.resources
+E:\dulieu\winnc\GiaoDien (1)\GiaoDien\GiaoDien\obj\Debug\GiaoDien.PhanQuyen.resources
+E:\dulieu\winnc\GiaoDien (1)\GiaoDien\GiaoDien\obj\Debug\GiaoDien.Properties.Resources.resources
+E:\dulieu\winnc\GiaoDien (1)\GiaoDien\GiaoDien\obj\Debug\GiaoDien.QLSuCo.resources
+E:\dulieu\winnc\GiaoDien (1)\GiaoDien\GiaoDien\obj\Debug\GiaoDien.themloaigiay.resources
+E:\dulieu\winnc\GiaoDien (1)\GiaoDien\GiaoDien\obj\Debug\GiaoDien.UC_Tongquat.resources
+E:\dulieu\winnc\GiaoDien (1)\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_ChucVu.resources
+E:\dulieu\winnc\GiaoDien (1)\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_NhanVien.resources
+E:\dulieu\winnc\GiaoDien (1)\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_SuCo.resources
+E:\dulieu\winnc\GiaoDien (1)\GiaoDien\GiaoDien\obj\Debug\GiaoDien.Them_CTHD.resources
+E:\dulieu\winnc\GiaoDien (1)\GiaoDien\GiaoDien\obj\Debug\GiaoDien.Them_NV.resources
+E:\dulieu\winnc\GiaoDien (1)\GiaoDien\GiaoDien\obj\Debug\GiaoDien.User_ds.resources
+E:\dulieu\winnc\GiaoDien (1)\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_CuoiNam.resources
+E:\dulieu\winnc\GiaoDien (1)\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_TaiKhoanNV.resources
+E:\dulieu\winnc\GiaoDien (1)\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_ThemDMTK.resources
+E:\dulieu\winnc\GiaoDien (1)\GiaoDien\GiaoDien\obj\Debug\GiaoDien.csproj.GenerateResource.Cache
+E:\dulieu\winnc\GiaoDien (1)\GiaoDien\GiaoDien\obj\Debug\GiaoDien.exe.licenses
+E:\dulieu\winnc\GiaoDien (1)\GiaoDien\GiaoDien\bin\Debug\GiaoDien.exe
+E:\dulieu\winnc\GiaoDien (1)\GiaoDien\GiaoDien\bin\Debug\GiaoDien.pdb
+E:\dulieu\winnc\GiaoDien (1)\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_kh.resources
+E:\dulieu\winnc\GiaoDien (1)\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_hskh.resources
+E:\dulieu\winnc\GiaoDien (1)\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_QLPhanQuyen.resources
+E:\dulieu\winnc\GiaoDien (1)\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_NhomND.resources
+E:\dulieu\winnc\GiaoDien (1)\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_DatHangNCC.resources
+E:\dulieu\winnc\GiaoDien (1)\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_ThemDDH.resources
+E:\dulieu\winnc\GiaoDien (1)\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_ThemTuFile.resources
+E:\dulieu\winnc\GiaoDien (1)\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_nhaphang.resources
+E:\dulieu\winnc\GiaoDien (1)\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_sp.resources
+E:\dulieu\winnc\GiaoDien (1)\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_sp.resources
+E:\dulieu\winnc\GiaoDien (1)\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_kho.resources
+E:\dulieu\winnc\GiaoDien (1)\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_ncc.resources
+E:\dulieu\winnc\GiaoDien (1)\GiaoDien\GiaoDien\bin\Debug\usercontrol_thietke.dll
+E:\dulieu\winnc\GiaoDien (1)\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_dn.resources
+E:\dulieu\winnc\GiaoDien (1)\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_main.resources
+E:\dulieu\winnc\GiaoDien (1)\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_nh.resources
+E:\dulieu\winnc\GiaoDien (1)\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_dmsp.resources
+E:\dulieu\winnc\GiaoDien (1)\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_tongquat.resources
+E:\dulieu\winnc\GiaoDien (1)\GiaoDien\GiaoDien\obj\Debug\GiaoDien.csproj.ResolveComReference.cache
+E:\dulieu\winnc\GiaoDien (1)\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_dangnhap.resources

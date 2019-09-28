@@ -180,6 +180,7 @@
             this.barButtonItem3.Id = 5;
             this.barButtonItem3.Name = "barButtonItem3";
             this.barButtonItem3.RibbonStyle = DevExpress.XtraBars.Ribbon.RibbonItemStyles.Large;
+            this.barButtonItem3.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.barButtonItem3_ItemClick);
             // 
             // barButtonItem4
             // 
@@ -200,9 +201,11 @@
             // 
             // barButtonItem6
             // 
-            this.barButtonItem6.Caption = "barButtonItem6";
+            this.barButtonItem6.Caption = "Nhóm người dùng";
+            this.barButtonItem6.Glyph = ((System.Drawing.Image)(resources.GetObject("barButtonItem6.Glyph")));
             this.barButtonItem6.Id = 8;
             this.barButtonItem6.Name = "barButtonItem6";
+            this.barButtonItem6.RibbonStyle = DevExpress.XtraBars.Ribbon.RibbonItemStyles.Large;
             this.barButtonItem6.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.barButtonItem6_ItemClick);
             // 
             // ribbonPage1
@@ -234,7 +237,6 @@
             // 
             this.ribbonPageGroup5.ItemLinks.Add(this.barButtonItem6);
             this.ribbonPageGroup5.Name = "ribbonPageGroup5";
-            this.ribbonPageGroup5.Text = "ribbonPageGroup5";
             // 
             // ribbonPage3
             // 
@@ -263,6 +265,7 @@
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.ribbonControl1);
             this.Controls.Add(this.panel3);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "frm_NHANVIEN";
             this.Text = "frm_NHANVIEN";
             this.panel3.ResumeLayout(false);

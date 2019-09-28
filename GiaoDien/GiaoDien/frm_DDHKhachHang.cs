@@ -17,9 +17,14 @@ namespace GiaoDien
             InitializeComponent();
         }
 
-        private void tabPane1_Click(object sender, EventArgs e)
+        
+
+        private void buttonX1_Click(object sender, EventArgs e)
         {
 
         }
+
+
+        
     }
 }

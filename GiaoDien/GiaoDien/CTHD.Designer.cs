@@ -550,6 +550,7 @@
             this.buttonX1.SymbolColor = System.Drawing.Color.SeaGreen;
             this.buttonX1.TabIndex = 59;
             this.buttonX1.Text = "Thêm";
+            this.buttonX1.Click += new System.EventHandler(this.buttonX1_Click);
             // 
             // tabNavigationPage1
             // 
@@ -1060,6 +1061,7 @@
             this.buttonX3.SymbolColor = System.Drawing.Color.SeaGreen;
             this.buttonX3.TabIndex = 59;
             this.buttonX3.Text = "Thêm";
+            this.buttonX3.Click += new System.EventHandler(this.buttonX3_Click);
             // 
             // CTHD
             // 

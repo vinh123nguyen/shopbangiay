@@ -29,10 +29,6 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frm_DDHKhachHang));
-            this.dataGridViewImageColumn1 = new System.Windows.Forms.DataGridViewImageColumn();
-            this.dataGridViewImageColumn2 = new System.Windows.Forms.DataGridViewImageColumn();
-            this.dataGridViewImageColumn3 = new System.Windows.Forms.DataGridViewImageColumn();
-            this.dataGridViewImageColumn4 = new System.Windows.Forms.DataGridViewImageColumn();
             this.panel2 = new System.Windows.Forms.Panel();
             this.panel4 = new System.Windows.Forms.Panel();
             this.panel3 = new System.Windows.Forms.Panel();
@@ -40,7 +36,7 @@
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.tabPane1 = new DevExpress.XtraBars.Navigation.TabPane();
-            this.DonDatHang = new DevExpress.XtraBars.Navigation.TabNavigationPage();
+            this.HoaDon = new DevExpress.XtraBars.Navigation.TabNavigationPage();
             this.groupBox4 = new System.Windows.Forms.GroupBox();
             this.groupPanel5 = new DevComponents.DotNetBar.Controls.GroupPanel();
             this.dataGridView2 = new System.Windows.Forms.DataGridView();
@@ -48,7 +44,7 @@
             this.dataGridViewTextBoxColumn2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.dataGridViewTextBoxColumn3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.dataGridViewTextBoxColumn4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column6 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn9 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.dataGridViewImageColumn7 = new System.Windows.Forms.DataGridViewImageColumn();
             this.dataGridViewImageColumn8 = new System.Windows.Forms.DataGridViewImageColumn();
             this.panel1 = new System.Windows.Forms.Panel();
@@ -128,6 +124,10 @@
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.textBox10 = new System.Windows.Forms.TextBox();
             this.buttonX3 = new DevComponents.DotNetBar.ButtonX();
+            this.dataGridViewImageColumn1 = new System.Windows.Forms.DataGridViewImageColumn();
+            this.dataGridViewImageColumn2 = new System.Windows.Forms.DataGridViewImageColumn();
+            this.dataGridViewImageColumn3 = new System.Windows.Forms.DataGridViewImageColumn();
+            this.dataGridViewImageColumn4 = new System.Windows.Forms.DataGridViewImageColumn();
             this.panel2.SuspendLayout();
             this.panel3.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
@@ -135,7 +135,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.tabPane1)).BeginInit();
             this.tabPane1.SuspendLayout();
-            this.DonDatHang.SuspendLayout();
+            this.HoaDon.SuspendLayout();
             this.groupBox4.SuspendLayout();
             this.groupPanel5.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).BeginInit();
@@ -161,34 +161,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
-            // dataGridViewImageColumn1
-            // 
-            this.dataGridViewImageColumn1.HeaderText = "xóa";
-            this.dataGridViewImageColumn1.Image = global::GiaoDien.Properties.Resources.thungRac;
-            this.dataGridViewImageColumn1.Name = "dataGridViewImageColumn1";
-            this.dataGridViewImageColumn1.Width = 51;
-            // 
-            // dataGridViewImageColumn2
-            // 
-            this.dataGridViewImageColumn2.HeaderText = "Sửa";
-            this.dataGridViewImageColumn2.Image = global::GiaoDien.Properties.Resources.pencil_tip_48px;
-            this.dataGridViewImageColumn2.Name = "dataGridViewImageColumn2";
-            this.dataGridViewImageColumn2.Width = 52;
-            // 
-            // dataGridViewImageColumn3
-            // 
-            this.dataGridViewImageColumn3.HeaderText = "Xóa";
-            this.dataGridViewImageColumn3.Image = global::GiaoDien.Properties.Resources.thungRac;
-            this.dataGridViewImageColumn3.Name = "dataGridViewImageColumn3";
-            this.dataGridViewImageColumn3.Width = 32;
-            // 
-            // dataGridViewImageColumn4
-            // 
-            this.dataGridViewImageColumn4.HeaderText = "sửa";
-            this.dataGridViewImageColumn4.Image = global::GiaoDien.Properties.Resources.pencil_tip_48px;
-            this.dataGridViewImageColumn4.Name = "dataGridViewImageColumn4";
-            this.dataGridViewImageColumn4.Width = 30;
-            // 
             // panel2
             // 
             this.panel2.BackColor = System.Drawing.Color.RoyalBlue;
@@ -197,7 +169,7 @@
             this.panel2.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel2.Location = new System.Drawing.Point(0, 0);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(987, 28);
+            this.panel2.Size = new System.Drawing.Size(953, 28);
             this.panel2.TabIndex = 23;
             // 
             // panel4
@@ -216,7 +188,7 @@
             this.panel3.Controls.Add(this.pictureBox2);
             this.panel3.Controls.Add(this.pictureBox3);
             this.panel3.Dock = System.Windows.Forms.DockStyle.Right;
-            this.panel3.Location = new System.Drawing.Point(808, 0);
+            this.panel3.Location = new System.Drawing.Point(774, 0);
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(179, 28);
             this.panel3.TabIndex = 3;
@@ -262,29 +234,28 @@
             // 
             this.tabPane1.Appearance.BackColor = System.Drawing.Color.LightSeaGreen;
             this.tabPane1.Appearance.Options.UseBackColor = true;
-            this.tabPane1.Controls.Add(this.DonDatHang);
+            this.tabPane1.Controls.Add(this.HoaDon);
             this.tabPane1.Controls.Add(this.tabNavigationPage2);
             this.tabPane1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tabPane1.Location = new System.Drawing.Point(0, 28);
             this.tabPane1.Name = "tabPane1";
             this.tabPane1.Pages.AddRange(new DevExpress.XtraBars.Navigation.NavigationPageBase[] {
-            this.DonDatHang,
+            this.HoaDon,
             this.tabNavigationPage2});
-            this.tabPane1.RegularSize = new System.Drawing.Size(987, 502);
-            this.tabPane1.SelectedPage = this.DonDatHang;
-            this.tabPane1.Size = new System.Drawing.Size(987, 502);
+            this.tabPane1.RegularSize = new System.Drawing.Size(953, 486);
+            this.tabPane1.SelectedPage = this.HoaDon;
+            this.tabPane1.Size = new System.Drawing.Size(953, 486);
             this.tabPane1.TabIndex = 24;
-            this.tabPane1.Click += new System.EventHandler(this.tabPane1_Click);
             // 
-            // DonDatHang
+            // HoaDon
             // 
-            this.DonDatHang.Appearance.BackColor = System.Drawing.Color.White;
-            this.DonDatHang.Appearance.Options.UseBackColor = true;
-            this.DonDatHang.Caption = "Đơn đặt hàng khách hàng";
-            this.DonDatHang.Controls.Add(this.groupBox4);
-            this.DonDatHang.Controls.Add(this.tabNavigationPage1);
-            this.DonDatHang.Name = "DonDatHang";
-            this.DonDatHang.Size = new System.Drawing.Size(969, 457);
+            this.HoaDon.Appearance.BackColor = System.Drawing.Color.White;
+            this.HoaDon.Appearance.Options.UseBackColor = true;
+            this.HoaDon.Caption = "Đơn đặt hàng khách hàng";
+            this.HoaDon.Controls.Add(this.groupBox4);
+            this.HoaDon.Controls.Add(this.tabNavigationPage1);
+            this.HoaDon.Name = "HoaDon";
+            this.HoaDon.Size = new System.Drawing.Size(935, 441);
             // 
             // groupBox4
             // 
@@ -296,27 +267,26 @@
             this.groupBox4.Dock = System.Windows.Forms.DockStyle.Fill;
             this.groupBox4.Location = new System.Drawing.Point(0, 0);
             this.groupBox4.Name = "groupBox4";
-            this.groupBox4.Size = new System.Drawing.Size(969, 457);
+            this.groupBox4.Size = new System.Drawing.Size(935, 441);
             this.groupBox4.TabIndex = 60;
             this.groupBox4.TabStop = false;
             // 
             // groupPanel5
             // 
-            this.groupPanel5.BackColor = System.Drawing.Color.Transparent;
-            this.groupPanel5.CanvasColor = System.Drawing.Color.AntiqueWhite;
-            this.groupPanel5.ColorSchemeStyle = DevComponents.DotNetBar.eDotNetBarStyle.VS2005;
+            this.groupPanel5.CanvasColor = System.Drawing.SystemColors.Control;
+            this.groupPanel5.ColorSchemeStyle = DevComponents.DotNetBar.eDotNetBarStyle.Office2007;
             this.groupPanel5.Controls.Add(this.dataGridView2);
             this.groupPanel5.DisabledBackColor = System.Drawing.Color.Empty;
             this.groupPanel5.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.groupPanel5.Location = new System.Drawing.Point(3, 277);
+            this.groupPanel5.Location = new System.Drawing.Point(3, 279);
             this.groupPanel5.Name = "groupPanel5";
-            this.groupPanel5.Size = new System.Drawing.Size(557, 177);
+            this.groupPanel5.Size = new System.Drawing.Size(523, 159);
             // 
             // 
             // 
-            this.groupPanel5.Style.BackColor = System.Drawing.Color.RoyalBlue;
-            this.groupPanel5.Style.BackColor2 = System.Drawing.Color.Azure;
+            this.groupPanel5.Style.BackColor2SchemePart = DevComponents.DotNetBar.eColorSchemePart.PanelBackground2;
             this.groupPanel5.Style.BackColorGradientAngle = 90;
+            this.groupPanel5.Style.BackColorSchemePart = DevComponents.DotNetBar.eColorSchemePart.PanelBackground;
             this.groupPanel5.Style.BorderBottom = DevComponents.DotNetBar.eStyleBorderType.Solid;
             this.groupPanel5.Style.BorderBottomWidth = 1;
             this.groupPanel5.Style.BorderColorSchemePart = DevComponents.DotNetBar.eColorSchemePart.PanelBorder;
@@ -339,7 +309,7 @@
             // 
             // 
             this.groupPanel5.StyleMouseOver.CornerType = DevComponents.DotNetBar.eCornerType.Square;
-            this.groupPanel5.TabIndex = 100;
+            this.groupPanel5.TabIndex = 103;
             this.groupPanel5.Text = "Giao hàng";
             // 
             // dataGridView2
@@ -351,54 +321,49 @@
             this.dataGridViewTextBoxColumn2,
             this.dataGridViewTextBoxColumn3,
             this.dataGridViewTextBoxColumn4,
-            this.Column6,
+            this.dataGridViewTextBoxColumn9,
             this.dataGridViewImageColumn7,
             this.dataGridViewImageColumn8});
             this.dataGridView2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.dataGridView2.Location = new System.Drawing.Point(0, 0);
             this.dataGridView2.Name = "dataGridView2";
-            this.dataGridView2.Size = new System.Drawing.Size(551, 156);
-            this.dataGridView2.TabIndex = 16;
+            this.dataGridView2.Size = new System.Drawing.Size(517, 138);
+            this.dataGridView2.TabIndex = 92;
             // 
             // dataGridViewTextBoxColumn1
             // 
-            this.dataGridViewTextBoxColumn1.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
-            this.dataGridViewTextBoxColumn1.FillWeight = 90F;
             this.dataGridViewTextBoxColumn1.HeaderText = "Mã đơn hàng";
             this.dataGridViewTextBoxColumn1.Name = "dataGridViewTextBoxColumn1";
             // 
             // dataGridViewTextBoxColumn2
             // 
-            this.dataGridViewTextBoxColumn2.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
             this.dataGridViewTextBoxColumn2.HeaderText = "Mã hóa đơn";
             this.dataGridViewTextBoxColumn2.Name = "dataGridViewTextBoxColumn2";
             // 
             // dataGridViewTextBoxColumn3
             // 
-            this.dataGridViewTextBoxColumn3.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
             this.dataGridViewTextBoxColumn3.HeaderText = "Mã nhân viên giao hàng";
             this.dataGridViewTextBoxColumn3.Name = "dataGridViewTextBoxColumn3";
             // 
             // dataGridViewTextBoxColumn4
             // 
-            this.dataGridViewTextBoxColumn4.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.Fill;
             this.dataGridViewTextBoxColumn4.HeaderText = "Ngày giao hàng";
             this.dataGridViewTextBoxColumn4.Name = "dataGridViewTextBoxColumn4";
             // 
-            // Column6
+            // dataGridViewTextBoxColumn9
             // 
-            this.Column6.HeaderText = "Tình trạng";
-            this.Column6.Name = "Column6";
+            this.dataGridViewTextBoxColumn9.HeaderText = "Tình trạng";
+            this.dataGridViewTextBoxColumn9.Name = "dataGridViewTextBoxColumn9";
             // 
             // dataGridViewImageColumn7
             // 
-            this.dataGridViewImageColumn7.HeaderText = "Xóa";
+            this.dataGridViewImageColumn7.HeaderText = "xóa";
             this.dataGridViewImageColumn7.Image = global::GiaoDien.Properties.Resources.thungRac;
             this.dataGridViewImageColumn7.Name = "dataGridViewImageColumn7";
             // 
             // dataGridViewImageColumn8
             // 
-            this.dataGridViewImageColumn8.HeaderText = "sửa";
+            this.dataGridViewImageColumn8.HeaderText = "Sửa";
             this.dataGridViewImageColumn8.Image = global::GiaoDien.Properties.Resources.pencil_tip_48px;
             this.dataGridViewImageColumn8.Name = "dataGridViewImageColumn8";
             // 
@@ -407,10 +372,10 @@
             this.panel1.BackColor = System.Drawing.Color.RoyalBlue;
             this.panel1.Controls.Add(this.buttonX2);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel1.Location = new System.Drawing.Point(3, 235);
+            this.panel1.Location = new System.Drawing.Point(3, 226);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(557, 42);
-            this.panel1.TabIndex = 99;
+            this.panel1.Size = new System.Drawing.Size(523, 53);
+            this.panel1.TabIndex = 102;
             // 
             // buttonX2
             // 
@@ -420,15 +385,14 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.buttonX2.BackColor = System.Drawing.Color.Transparent;
             this.buttonX2.ColorTable = DevComponents.DotNetBar.eButtonColor.Blue;
-            this.buttonX2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.buttonX2.Location = new System.Drawing.Point(265, 3);
+            this.buttonX2.Location = new System.Drawing.Point(216, 3);
             this.buttonX2.Name = "buttonX2";
-            this.buttonX2.Size = new System.Drawing.Size(33, 31);
+            this.buttonX2.Size = new System.Drawing.Size(86, 41);
             this.buttonX2.Style = DevComponents.DotNetBar.eDotNetBarStyle.StyleManagerControlled;
             this.buttonX2.Symbol = "";
             this.buttonX2.SymbolColor = System.Drawing.Color.White;
             this.buttonX2.SymbolSize = 40F;
-            this.buttonX2.TabIndex = 62;
+            this.buttonX2.TabIndex = 0;
             // 
             // groupPanel4
             // 
@@ -439,13 +403,13 @@
             this.groupPanel4.Dock = System.Windows.Forms.DockStyle.Top;
             this.groupPanel4.Location = new System.Drawing.Point(3, 53);
             this.groupPanel4.Name = "groupPanel4";
-            this.groupPanel4.Size = new System.Drawing.Size(557, 182);
+            this.groupPanel4.Size = new System.Drawing.Size(523, 173);
             // 
             // 
             // 
-            this.groupPanel4.Style.BackColor = System.Drawing.Color.RoyalBlue;
             this.groupPanel4.Style.BackColor2SchemePart = DevComponents.DotNetBar.eColorSchemePart.PanelBackground2;
             this.groupPanel4.Style.BackColorGradientAngle = 90;
+            this.groupPanel4.Style.BackColorSchemePart = DevComponents.DotNetBar.eColorSchemePart.PanelBackground;
             this.groupPanel4.Style.BorderBottom = DevComponents.DotNetBar.eStyleBorderType.Solid;
             this.groupPanel4.Style.BorderBottomWidth = 1;
             this.groupPanel4.Style.BorderColorSchemePart = DevComponents.DotNetBar.eColorSchemePart.PanelBorder;
@@ -468,7 +432,7 @@
             // 
             // 
             this.groupPanel4.StyleMouseOver.CornerType = DevComponents.DotNetBar.eCornerType.Square;
-            this.groupPanel4.TabIndex = 98;
+            this.groupPanel4.TabIndex = 94;
             this.groupPanel4.Text = "Đơn đặt hàng khách hàng";
             // 
             // dataGridView1
@@ -486,8 +450,8 @@
             this.dataGridView1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.dataGridView1.Location = new System.Drawing.Point(0, 0);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(551, 161);
-            this.dataGridView1.TabIndex = 91;
+            this.dataGridView1.Size = new System.Drawing.Size(517, 152);
+            this.dataGridView1.TabIndex = 92;
             // 
             // Column1
             // 
@@ -531,9 +495,9 @@
             this.groupBox1.Controls.Add(this.groupPanel6);
             this.groupBox1.Controls.Add(this.groupPanel1);
             this.groupBox1.Dock = System.Windows.Forms.DockStyle.Right;
-            this.groupBox1.Location = new System.Drawing.Point(560, 53);
+            this.groupBox1.Location = new System.Drawing.Point(526, 53);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(406, 401);
+            this.groupBox1.Size = new System.Drawing.Size(406, 385);
             this.groupBox1.TabIndex = 85;
             this.groupBox1.TabStop = false;
             // 
@@ -554,9 +518,9 @@
             this.groupPanel6.Controls.Add(this.label19);
             this.groupPanel6.DisabledBackColor = System.Drawing.Color.Empty;
             this.groupPanel6.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.groupPanel6.Location = new System.Drawing.Point(3, 203);
+            this.groupPanel6.Location = new System.Drawing.Point(3, 189);
             this.groupPanel6.Name = "groupPanel6";
-            this.groupPanel6.Size = new System.Drawing.Size(400, 195);
+            this.groupPanel6.Size = new System.Drawing.Size(400, 193);
             // 
             // 
             // 
@@ -592,7 +556,7 @@
             // 
             this.radioButton2.AutoSize = true;
             this.radioButton2.BackColor = System.Drawing.Color.Transparent;
-            this.radioButton2.Location = new System.Drawing.Point(294, 107);
+            this.radioButton2.Location = new System.Drawing.Point(319, 134);
             this.radioButton2.Name = "radioButton2";
             this.radioButton2.Size = new System.Drawing.Size(62, 17);
             this.radioButton2.TabIndex = 62;
@@ -604,7 +568,7 @@
             // 
             this.radioButton1.AutoSize = true;
             this.radioButton1.BackColor = System.Drawing.Color.Transparent;
-            this.radioButton1.Location = new System.Drawing.Point(167, 107);
+            this.radioButton1.Location = new System.Drawing.Point(167, 133);
             this.radioButton1.Name = "radioButton1";
             this.radioButton1.Size = new System.Drawing.Size(74, 17);
             this.radioButton1.TabIndex = 61;
@@ -614,7 +578,7 @@
             // 
             // textBox16
             // 
-            this.textBox16.Location = new System.Drawing.Point(167, 29);
+            this.textBox16.Location = new System.Drawing.Point(167, 47);
             this.textBox16.Name = "textBox16";
             this.textBox16.ReadOnly = true;
             this.textBox16.Size = new System.Drawing.Size(226, 20);
@@ -626,11 +590,11 @@
             this.label7.BackColor = System.Drawing.Color.Transparent;
             this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 12.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label7.ForeColor = System.Drawing.Color.Black;
-            this.label7.Location = new System.Drawing.Point(3, 1);
+            this.label7.Location = new System.Drawing.Point(3, 16);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(105, 20);
             this.label7.TabIndex = 51;
-            this.label7.Text = "mã đơn hàng";
+            this.label7.Text = "Mã đơn hàng";
             // 
             // label16
             // 
@@ -638,7 +602,7 @@
             this.label16.BackColor = System.Drawing.Color.Transparent;
             this.label16.Font = new System.Drawing.Font("Microsoft Sans Serif", 12.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label16.ForeColor = System.Drawing.Color.Black;
-            this.label16.Location = new System.Drawing.Point(3, 29);
+            this.label16.Location = new System.Drawing.Point(3, 47);
             this.label16.Name = "label16";
             this.label16.Size = new System.Drawing.Size(96, 20);
             this.label16.TabIndex = 59;
@@ -646,7 +610,7 @@
             // 
             // textBox17
             // 
-            this.textBox17.Location = new System.Drawing.Point(167, 3);
+            this.textBox17.Location = new System.Drawing.Point(167, 18);
             this.textBox17.Name = "textBox17";
             this.textBox17.ReadOnly = true;
             this.textBox17.Size = new System.Drawing.Size(226, 20);
@@ -658,7 +622,7 @@
             this.label17.BackColor = System.Drawing.Color.Transparent;
             this.label17.Font = new System.Drawing.Font("Microsoft Sans Serif", 12.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label17.ForeColor = System.Drawing.Color.Black;
-            this.label17.Location = new System.Drawing.Point(3, 104);
+            this.label17.Location = new System.Drawing.Point(3, 131);
             this.label17.Name = "label17";
             this.label17.Size = new System.Drawing.Size(84, 20);
             this.label17.TabIndex = 58;
@@ -666,7 +630,7 @@
             // 
             // maskedTextBox3
             // 
-            this.maskedTextBox3.Location = new System.Drawing.Point(167, 81);
+            this.maskedTextBox3.Location = new System.Drawing.Point(167, 104);
             this.maskedTextBox3.Mask = "00/00/0000";
             this.maskedTextBox3.Name = "maskedTextBox3";
             this.maskedTextBox3.Size = new System.Drawing.Size(226, 20);
@@ -679,15 +643,15 @@
             this.label18.BackColor = System.Drawing.Color.Transparent;
             this.label18.Font = new System.Drawing.Font("Microsoft Sans Serif", 12.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label18.ForeColor = System.Drawing.Color.Black;
-            this.label18.Location = new System.Drawing.Point(3, 79);
+            this.label18.Location = new System.Drawing.Point(3, 102);
             this.label18.Name = "label18";
-            this.label18.Size = new System.Drawing.Size(83, 20);
+            this.label18.Size = new System.Drawing.Size(80, 20);
             this.label18.TabIndex = 54;
-            this.label18.Text = "Ngày giao";
+            this.label18.Text = "Ngày đặt ";
             // 
             // textBox18
             // 
-            this.textBox18.Location = new System.Drawing.Point(167, 55);
+            this.textBox18.Location = new System.Drawing.Point(167, 75);
             this.textBox18.Name = "textBox18";
             this.textBox18.Size = new System.Drawing.Size(226, 20);
             this.textBox18.TabIndex = 56;
@@ -698,7 +662,7 @@
             this.label19.BackColor = System.Drawing.Color.Transparent;
             this.label19.Font = new System.Drawing.Font("Microsoft Sans Serif", 12.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label19.ForeColor = System.Drawing.Color.Black;
-            this.label19.Location = new System.Drawing.Point(3, 55);
+            this.label19.Location = new System.Drawing.Point(3, 75);
             this.label19.Name = "label19";
             this.label19.Size = new System.Drawing.Size(108, 20);
             this.label19.TabIndex = 55;
@@ -722,7 +686,7 @@
             this.groupPanel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.groupPanel1.Location = new System.Drawing.Point(3, 16);
             this.groupPanel1.Name = "groupPanel1";
-            this.groupPanel1.Size = new System.Drawing.Size(400, 187);
+            this.groupPanel1.Size = new System.Drawing.Size(400, 173);
             // 
             // 
             // 
@@ -756,14 +720,14 @@
             // 
             // textBox15
             // 
-            this.textBox15.Location = new System.Drawing.Point(167, 106);
+            this.textBox15.Location = new System.Drawing.Point(167, 121);
             this.textBox15.Name = "textBox15";
             this.textBox15.Size = new System.Drawing.Size(226, 20);
             this.textBox15.TabIndex = 61;
             // 
             // textBox7
             // 
-            this.textBox7.Location = new System.Drawing.Point(167, 29);
+            this.textBox7.Location = new System.Drawing.Point(167, 35);
             this.textBox7.Name = "textBox7";
             this.textBox7.ReadOnly = true;
             this.textBox7.Size = new System.Drawing.Size(226, 20);
@@ -775,7 +739,7 @@
             this.label9.BackColor = System.Drawing.Color.Transparent;
             this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 12.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label9.ForeColor = System.Drawing.Color.Black;
-            this.label9.Location = new System.Drawing.Point(3, 1);
+            this.label9.Location = new System.Drawing.Point(3, 4);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(101, 20);
             this.label9.TabIndex = 51;
@@ -787,7 +751,7 @@
             this.label13.BackColor = System.Drawing.Color.Transparent;
             this.label13.Font = new System.Drawing.Font("Microsoft Sans Serif", 12.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label13.ForeColor = System.Drawing.Color.Black;
-            this.label13.Location = new System.Drawing.Point(3, 29);
+            this.label13.Location = new System.Drawing.Point(3, 35);
             this.label13.Name = "label13";
             this.label13.Size = new System.Drawing.Size(97, 20);
             this.label13.TabIndex = 59;
@@ -795,7 +759,7 @@
             // 
             // textBox5
             // 
-            this.textBox5.Location = new System.Drawing.Point(167, 3);
+            this.textBox5.Location = new System.Drawing.Point(167, 6);
             this.textBox5.Name = "textBox5";
             this.textBox5.ReadOnly = true;
             this.textBox5.Size = new System.Drawing.Size(226, 20);
@@ -807,7 +771,7 @@
             this.label12.BackColor = System.Drawing.Color.Transparent;
             this.label12.Font = new System.Drawing.Font("Microsoft Sans Serif", 12.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label12.ForeColor = System.Drawing.Color.Black;
-            this.label12.Location = new System.Drawing.Point(3, 104);
+            this.label12.Location = new System.Drawing.Point(3, 119);
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(78, 20);
             this.label12.TabIndex = 58;
@@ -815,7 +779,7 @@
             // 
             // maskedTextBox1
             // 
-            this.maskedTextBox1.Location = new System.Drawing.Point(167, 81);
+            this.maskedTextBox1.Location = new System.Drawing.Point(167, 92);
             this.maskedTextBox1.Mask = "00/00/0000";
             this.maskedTextBox1.Name = "maskedTextBox1";
             this.maskedTextBox1.Size = new System.Drawing.Size(226, 20);
@@ -828,7 +792,7 @@
             this.label10.BackColor = System.Drawing.Color.Transparent;
             this.label10.Font = new System.Drawing.Font("Microsoft Sans Serif", 12.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label10.ForeColor = System.Drawing.Color.Black;
-            this.label10.Location = new System.Drawing.Point(3, 79);
+            this.label10.Location = new System.Drawing.Point(3, 90);
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(75, 20);
             this.label10.TabIndex = 54;
@@ -836,7 +800,7 @@
             // 
             // textBox9
             // 
-            this.textBox9.Location = new System.Drawing.Point(167, 55);
+            this.textBox9.Location = new System.Drawing.Point(167, 63);
             this.textBox9.Name = "textBox9";
             this.textBox9.Size = new System.Drawing.Size(226, 20);
             this.textBox9.TabIndex = 56;
@@ -847,7 +811,7 @@
             this.label11.BackColor = System.Drawing.Color.Transparent;
             this.label11.Font = new System.Drawing.Font("Microsoft Sans Serif", 12.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label11.ForeColor = System.Drawing.Color.Black;
-            this.label11.Location = new System.Drawing.Point(3, 55);
+            this.label11.Location = new System.Drawing.Point(3, 63);
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(150, 20);
             this.label11.TabIndex = 55;
@@ -864,7 +828,7 @@
             this.panelEx2.Dock = System.Windows.Forms.DockStyle.Top;
             this.panelEx2.Location = new System.Drawing.Point(3, 16);
             this.panelEx2.Name = "panelEx2";
-            this.panelEx2.Size = new System.Drawing.Size(963, 37);
+            this.panelEx2.Size = new System.Drawing.Size(929, 37);
             this.panelEx2.Style.Alignment = System.Drawing.StringAlignment.Center;
             this.panelEx2.Style.BackColor1.Color = System.Drawing.Color.DarkKhaki;
             this.panelEx2.Style.BackColor2.Color = System.Drawing.Color.Transparent;
@@ -900,7 +864,7 @@
             this.buttonX1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.buttonX1.ColorTable = DevComponents.DotNetBar.eButtonColor.Blue;
             this.buttonX1.Dock = System.Windows.Forms.DockStyle.Right;
-            this.buttonX1.Location = new System.Drawing.Point(828, 0);
+            this.buttonX1.Location = new System.Drawing.Point(794, 0);
             this.buttonX1.Name = "buttonX1";
             this.buttonX1.Size = new System.Drawing.Size(135, 37);
             this.buttonX1.Style = DevComponents.DotNetBar.eDotNetBarStyle.Office2003;
@@ -908,6 +872,7 @@
             this.buttonX1.SymbolColor = System.Drawing.Color.SeaGreen;
             this.buttonX1.TabIndex = 59;
             this.buttonX1.Text = "Thêm";
+            this.buttonX1.Click += new System.EventHandler(this.buttonX1_Click);
             // 
             // tabNavigationPage1
             // 
@@ -917,7 +882,7 @@
             this.tabNavigationPage1.Controls.Add(this.panel5);
             this.tabNavigationPage1.Controls.Add(this.groupBox2);
             this.tabNavigationPage1.Name = "tabNavigationPage1";
-            this.tabNavigationPage1.Size = new System.Drawing.Size(969, 457);
+            this.tabNavigationPage1.Size = new System.Drawing.Size(853, 358);
             // 
             // panel5
             // 
@@ -925,7 +890,7 @@
             this.panel5.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel5.Location = new System.Drawing.Point(0, 0);
             this.panel5.Name = "panel5";
-            this.panel5.Size = new System.Drawing.Size(969, 38);
+            this.panel5.Size = new System.Drawing.Size(853, 38);
             this.panel5.TabIndex = 52;
             // 
             // pictureBox5
@@ -1050,7 +1015,7 @@
             this.tabNavigationPage2.Caption = "Chi tiết đơn đặt hàng khách hàng";
             this.tabNavigationPage2.Controls.Add(this.groupBox3);
             this.tabNavigationPage2.Name = "tabNavigationPage2";
-            this.tabNavigationPage2.Size = new System.Drawing.Size(969, 457);
+            this.tabNavigationPage2.Size = new System.Drawing.Size(935, 441);
             // 
             // groupBox3
             // 
@@ -1061,7 +1026,7 @@
             this.groupBox3.Dock = System.Windows.Forms.DockStyle.Fill;
             this.groupBox3.Location = new System.Drawing.Point(0, 0);
             this.groupBox3.Name = "groupBox3";
-            this.groupBox3.Size = new System.Drawing.Size(969, 457);
+            this.groupBox3.Size = new System.Drawing.Size(935, 441);
             this.groupBox3.TabIndex = 0;
             this.groupBox3.TabStop = false;
             // 
@@ -1075,7 +1040,7 @@
             this.groupPanel3.Dock = System.Windows.Forms.DockStyle.Fill;
             this.groupPanel3.Location = new System.Drawing.Point(3, 53);
             this.groupPanel3.Name = "groupPanel3";
-            this.groupPanel3.Size = new System.Drawing.Size(587, 401);
+            this.groupPanel3.Size = new System.Drawing.Size(553, 385);
             // 
             // 
             // 
@@ -1105,7 +1070,7 @@
             // 
             this.groupPanel3.StyleMouseOver.CornerType = DevComponents.DotNetBar.eCornerType.Square;
             this.groupPanel3.TabIndex = 80;
-            this.groupPanel3.Text = "Chi tiết đơn đặt hàng khách hàng";
+            this.groupPanel3.Text = "Chi tiết phiếu bảo hành";
             // 
             // dataGridView3
             // 
@@ -1121,7 +1086,7 @@
             this.dataGridView3.Dock = System.Windows.Forms.DockStyle.Fill;
             this.dataGridView3.Location = new System.Drawing.Point(0, 0);
             this.dataGridView3.Name = "dataGridView3";
-            this.dataGridView3.Size = new System.Drawing.Size(581, 380);
+            this.dataGridView3.Size = new System.Drawing.Size(547, 364);
             this.dataGridView3.TabIndex = 16;
             // 
             // dataGridViewTextBoxColumn5
@@ -1166,9 +1131,9 @@
             this.groupBox5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.groupBox5.Controls.Add(this.groupPanel2);
             this.groupBox5.Dock = System.Windows.Forms.DockStyle.Right;
-            this.groupBox5.Location = new System.Drawing.Point(590, 53);
+            this.groupBox5.Location = new System.Drawing.Point(556, 53);
             this.groupBox5.Name = "groupBox5";
-            this.groupBox5.Size = new System.Drawing.Size(376, 401);
+            this.groupBox5.Size = new System.Drawing.Size(376, 385);
             this.groupBox5.TabIndex = 79;
             this.groupBox5.TabStop = false;
             // 
@@ -1188,7 +1153,7 @@
             this.groupPanel2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.groupPanel2.Location = new System.Drawing.Point(3, 16);
             this.groupPanel2.Name = "groupPanel2";
-            this.groupPanel2.Size = new System.Drawing.Size(370, 382);
+            this.groupPanel2.Size = new System.Drawing.Size(370, 366);
             // 
             // 
             // 
@@ -1221,7 +1186,7 @@
             // 
             // textBox6
             // 
-            this.textBox6.Location = new System.Drawing.Point(134, 6);
+            this.textBox6.Location = new System.Drawing.Point(134, 24);
             this.textBox6.Name = "textBox6";
             this.textBox6.ReadOnly = true;
             this.textBox6.Size = new System.Drawing.Size(219, 20);
@@ -1232,7 +1197,7 @@
             this.label6.AutoSize = true;
             this.label6.BackColor = System.Drawing.Color.Transparent;
             this.label6.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(16, 7);
+            this.label6.Location = new System.Drawing.Point(16, 25);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(90, 19);
             this.label6.TabIndex = 66;
@@ -1240,7 +1205,7 @@
             // 
             // textBox12
             // 
-            this.textBox12.Location = new System.Drawing.Point(134, 66);
+            this.textBox12.Location = new System.Drawing.Point(134, 154);
             this.textBox12.Name = "textBox12";
             this.textBox12.ReadOnly = true;
             this.textBox12.Size = new System.Drawing.Size(219, 20);
@@ -1248,7 +1213,7 @@
             // 
             // textBox13
             // 
-            this.textBox13.Location = new System.Drawing.Point(134, 36);
+            this.textBox13.Location = new System.Drawing.Point(134, 90);
             this.textBox13.Name = "textBox13";
             this.textBox13.ReadOnly = true;
             this.textBox13.Size = new System.Drawing.Size(219, 20);
@@ -1256,7 +1221,7 @@
             // 
             // textBox14
             // 
-            this.textBox14.Location = new System.Drawing.Point(134, 97);
+            this.textBox14.Location = new System.Drawing.Point(132, 218);
             this.textBox14.Name = "textBox14";
             this.textBox14.ReadOnly = true;
             this.textBox14.Size = new System.Drawing.Size(219, 20);
@@ -1267,7 +1232,7 @@
             this.label8.AutoSize = true;
             this.label8.BackColor = System.Drawing.Color.Transparent;
             this.label8.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label8.Location = new System.Drawing.Point(18, 98);
+            this.label8.Location = new System.Drawing.Point(18, 219);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(62, 19);
             this.label8.TabIndex = 61;
@@ -1278,7 +1243,7 @@
             this.label14.AutoSize = true;
             this.label14.BackColor = System.Drawing.Color.Transparent;
             this.label14.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label14.Location = new System.Drawing.Point(18, 66);
+            this.label14.Location = new System.Drawing.Point(18, 155);
             this.label14.Name = "label14";
             this.label14.Size = new System.Drawing.Size(69, 19);
             this.label14.TabIndex = 60;
@@ -1289,7 +1254,7 @@
             this.label15.AutoSize = true;
             this.label15.BackColor = System.Drawing.Color.Transparent;
             this.label15.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label15.Location = new System.Drawing.Point(18, 34);
+            this.label15.Location = new System.Drawing.Point(18, 90);
             this.label15.Name = "label15";
             this.label15.Size = new System.Drawing.Size(100, 19);
             this.label15.TabIndex = 65;
@@ -1306,7 +1271,7 @@
             this.panelEx1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panelEx1.Location = new System.Drawing.Point(3, 16);
             this.panelEx1.Name = "panelEx1";
-            this.panelEx1.Size = new System.Drawing.Size(963, 37);
+            this.panelEx1.Size = new System.Drawing.Size(929, 37);
             this.panelEx1.Style.Alignment = System.Drawing.StringAlignment.Center;
             this.panelEx1.Style.BackColor1.Color = System.Drawing.Color.DarkKhaki;
             this.panelEx1.Style.BackColor2.Color = System.Drawing.Color.Transparent;
@@ -1341,7 +1306,7 @@
             this.buttonX3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.buttonX3.ColorTable = DevComponents.DotNetBar.eButtonColor.Blue;
             this.buttonX3.Dock = System.Windows.Forms.DockStyle.Right;
-            this.buttonX3.Location = new System.Drawing.Point(828, 0);
+            this.buttonX3.Location = new System.Drawing.Point(794, 0);
             this.buttonX3.Name = "buttonX3";
             this.buttonX3.Size = new System.Drawing.Size(135, 37);
             this.buttonX3.Style = DevComponents.DotNetBar.eDotNetBarStyle.Office2003;
@@ -1350,11 +1315,39 @@
             this.buttonX3.TabIndex = 59;
             this.buttonX3.Text = "Thêm";
             // 
+            // dataGridViewImageColumn1
+            // 
+            this.dataGridViewImageColumn1.HeaderText = "xóa";
+            this.dataGridViewImageColumn1.Image = global::GiaoDien.Properties.Resources.thungRac;
+            this.dataGridViewImageColumn1.Name = "dataGridViewImageColumn1";
+            this.dataGridViewImageColumn1.Width = 51;
+            // 
+            // dataGridViewImageColumn2
+            // 
+            this.dataGridViewImageColumn2.HeaderText = "Sửa";
+            this.dataGridViewImageColumn2.Image = global::GiaoDien.Properties.Resources.pencil_tip_48px;
+            this.dataGridViewImageColumn2.Name = "dataGridViewImageColumn2";
+            this.dataGridViewImageColumn2.Width = 52;
+            // 
+            // dataGridViewImageColumn3
+            // 
+            this.dataGridViewImageColumn3.HeaderText = "Xóa";
+            this.dataGridViewImageColumn3.Image = global::GiaoDien.Properties.Resources.thungRac;
+            this.dataGridViewImageColumn3.Name = "dataGridViewImageColumn3";
+            this.dataGridViewImageColumn3.Width = 32;
+            // 
+            // dataGridViewImageColumn4
+            // 
+            this.dataGridViewImageColumn4.HeaderText = "sửa";
+            this.dataGridViewImageColumn4.Image = global::GiaoDien.Properties.Resources.pencil_tip_48px;
+            this.dataGridViewImageColumn4.Name = "dataGridViewImageColumn4";
+            this.dataGridViewImageColumn4.Width = 30;
+            // 
             // frm_DDHKhachHang
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(987, 530);
+            this.ClientSize = new System.Drawing.Size(953, 514);
             this.Controls.Add(this.tabPane1);
             this.Controls.Add(this.panel2);
             this.Name = "frm_DDHKhachHang";
@@ -1366,7 +1359,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.tabPane1)).EndInit();
             this.tabPane1.ResumeLayout(false);
-            this.DonDatHang.ResumeLayout(false);
+            this.HoaDon.ResumeLayout(false);
             this.groupBox4.ResumeLayout(false);
             this.groupPanel5.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).EndInit();
@@ -1413,7 +1406,7 @@
         private System.Windows.Forms.PictureBox pictureBox2;
         private System.Windows.Forms.PictureBox pictureBox3;
         private DevExpress.XtraBars.Navigation.TabPane tabPane1;
-        private DevExpress.XtraBars.Navigation.TabNavigationPage DonDatHang;
+        private DevExpress.XtraBars.Navigation.TabNavigationPage HoaDon;
         private System.Windows.Forms.GroupBox groupBox4;
         private System.Windows.Forms.GroupBox groupBox1;
         private DevComponents.DotNetBar.Controls.GroupPanel groupPanel1;
@@ -1469,17 +1462,18 @@
         private System.Windows.Forms.DataGridViewImageColumn dataGridViewImageColumn5;
         private System.Windows.Forms.DataGridViewImageColumn dataGridViewImageColumn6;
         private System.Windows.Forms.TextBox textBox6;
+        private DevComponents.DotNetBar.Controls.GroupPanel groupPanel4;
         private DevComponents.DotNetBar.Controls.GroupPanel groupPanel5;
         private System.Windows.Forms.DataGridView dataGridView2;
         private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn1;
         private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn2;
         private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn3;
         private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn4;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Column6;
+        private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn9;
         private System.Windows.Forms.DataGridViewImageColumn dataGridViewImageColumn7;
         private System.Windows.Forms.DataGridViewImageColumn dataGridViewImageColumn8;
         private System.Windows.Forms.Panel panel1;
-        private DevComponents.DotNetBar.Controls.GroupPanel groupPanel4;
+        private DevComponents.DotNetBar.ButtonX buttonX2;
         private System.Windows.Forms.DataGridView dataGridView1;
         private System.Windows.Forms.DataGridViewTextBoxColumn Column1;
         private System.Windows.Forms.DataGridViewTextBoxColumn Column2;
@@ -1500,6 +1494,5 @@
         private System.Windows.Forms.Label label18;
         private System.Windows.Forms.TextBox textBox18;
         private System.Windows.Forms.Label label19;
-        private DevComponents.DotNetBar.ButtonX buttonX2;
     }
 }

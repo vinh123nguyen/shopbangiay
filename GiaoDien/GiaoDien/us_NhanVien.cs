@@ -16,5 +16,16 @@ namespace GiaoDien
         {
             InitializeComponent();
         }
+
+        private void buttonX2_Click(object sender, EventArgs e)
+        {
+            Them_NV nv = new Them_NV();
+            nv.Show();
+        }
+
+        private void buttonX1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

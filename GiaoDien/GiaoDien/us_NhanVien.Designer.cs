@@ -85,6 +85,7 @@
             this.buttonX1.SymbolColor = System.Drawing.Color.SeaGreen;
             this.buttonX1.TabIndex = 60;
             this.buttonX1.Text = "Xóa";
+            this.buttonX1.Click += new System.EventHandler(this.buttonX1_Click);
             // 
             // buttonX2
             // 
@@ -101,6 +102,7 @@
             this.buttonX2.SymbolColor = System.Drawing.Color.SeaGreen;
             this.buttonX2.TabIndex = 61;
             this.buttonX2.Text = "Thêm";
+            this.buttonX2.Click += new System.EventHandler(this.buttonX2_Click);
             // 
             // textBox4
             // 

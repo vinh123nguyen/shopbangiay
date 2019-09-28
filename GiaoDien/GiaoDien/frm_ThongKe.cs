@@ -22,10 +22,11 @@ namespace GiaoDien
         }
 
 
-        int lanbam;
+        int lanbam=-1;
         private void barButtonItem1_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
             lanbam = 0;
+            panel1.Controls.Clear();
             u.Width = panel1.Width;
             u.Height = panel1.Height;
             panel1.Controls.Add(u);
@@ -39,8 +40,6 @@ namespace GiaoDien
 
         private void pictureBox3_Click(object sender, EventArgs e)
         {
-            
-            
                 if (this.WindowState == FormWindowState.Normal)
                 {
                     this.WindowState = FormWindowState.Maximized;
@@ -55,6 +54,7 @@ namespace GiaoDien
                         {
                             sc.Width = panel1.Width;
                             sc.Height = panel1.Height;
+                            
                         }
                         else
                         {
@@ -62,6 +62,7 @@ namespace GiaoDien
                             {
                                 cn.Width = panel1.Width;
                                 cn.Height = panel1.Height;
+                                
                             }
                             else
                             {
@@ -69,6 +70,7 @@ namespace GiaoDien
                                 {
                                     them.Width = panel1.Width;
                                     them.Height = panel1.Height;
+                                    
                                 }
                             }
                         }
@@ -82,6 +84,7 @@ namespace GiaoDien
                     {
                         u.Width = panel1.Width;
                         u.Height = panel1.Height;
+                        
                     }
                     else
                     {
@@ -89,6 +92,7 @@ namespace GiaoDien
                         {
                             sc.Width = panel1.Width;
                             sc.Height = panel1.Height;
+                            
                         }
                         else
                         {
@@ -96,6 +100,7 @@ namespace GiaoDien
                             {
                                 cn.Width = panel1.Width;
                                 cn.Height = panel1.Height;
+                                
                             }
                             else
                             {
@@ -103,6 +108,7 @@ namespace GiaoDien
                                 {
                                     them.Width = panel1.Width;
                                     them.Height = panel1.Height;
+                                    
                                 }
                             }
                         }
@@ -148,6 +154,12 @@ namespace GiaoDien
             them.Width = panel1.Width;
             them.Height = panel1.Height;
             panel1.Controls.Add(them);
+            
+        }
+
+        private void panel3_Paint(object sender, PaintEventArgs e)
+        {
+
         }
        
        

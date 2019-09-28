@@ -17,6 +17,17 @@ namespace GiaoDien
             InitializeComponent();
         }
 
+        private void buttonX1_Click(object sender, EventArgs e)
+        {
+           
+        }
+
+        private void buttonX3_Click(object sender, EventArgs e)
+        {
+            Them_CTHD t = new Them_CTHD();
+            t.Show();
+        }
+
     
        
 

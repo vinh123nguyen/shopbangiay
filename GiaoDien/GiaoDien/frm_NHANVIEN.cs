@@ -12,15 +12,16 @@ namespace GiaoDien
 {
     public partial class frm_NHANVIEN : Form
     {
-        
-            us_ChucVu cv = new us_ChucVu();
-            us_NhanVien nv = new us_NhanVien();
-            us_TaiKhoanNV tknv = new us_TaiKhoanNV();
+        us_ChucVu cv = new us_ChucVu();
+        us_NhanVien nv = new us_NhanVien();
+        us_TaiKhoanNV tknv = new us_TaiKhoanNV();
+        us_NhomND nhomnd = new us_NhomND();
         public frm_NHANVIEN()
         {
             InitializeComponent();
         }
-        int lanbam;
+        int lanbam=-1;
+        int d = 0;
         private void barButtonItem3_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
             lanbam = 0;
@@ -28,6 +29,7 @@ namespace GiaoDien
             nv.Width = panel1.Width;
             nv.Height = panel1.Height;
             panel1.Controls.Add(nv);
+            
         }
 
         private void barButtonItem2_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
@@ -37,6 +39,7 @@ namespace GiaoDien
             tknv.Width = panel1.Width;
             tknv.Height = panel1.Height;
             panel1.Controls.Add(tknv);
+            
         }
 
         private void barButtonItem4_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
@@ -46,6 +49,7 @@ namespace GiaoDien
             cv.Width = panel1.Width;
             cv.Height = panel1.Height;
             panel1.Controls.Add(cv);
+            
         }
 
         private void pictureBox4_Click(object sender, EventArgs e)
@@ -58,25 +62,36 @@ namespace GiaoDien
             if (this.WindowState == FormWindowState.Normal)
             {
                 this.WindowState = FormWindowState.Maximized;
-                if (lanbam == 0)
+                if (lanbam == 0 )
                 {
+                    
                     nv.Width = panel1.Width;
-                    nv.Height = panel1.Height;
+                    nv.Height = panel1.Height;    
+                   
                 }
                 else
                 {
-                    if (lanbam == 1)
+                    if (lanbam == 1 )
                     {
+                        
                         tknv.Width = panel1.Width;
                         tknv.Height = panel1.Height;
                     }
                     else
                     {
-                        if (lanbam == 2)
+                        if (lanbam == 2 )
                         {
+                            
                             cv.Width = panel1.Width;
                             cv.Height = panel1.Height;
                         }
+                        else
+                            if (lanbam == 3 )
+                            {
+                                
+                                nhomnd.Width = panel1.Width;
+                                nhomnd.Height = panel1.Height;
+                            }
                        
                     }
                 }
@@ -85,25 +100,31 @@ namespace GiaoDien
             else
             {
                 this.WindowState = FormWindowState.Normal;
-                if (lanbam == 0)
+                if (lanbam == 0 )
                 {
                     nv.Width = panel1.Width;
                     nv.Height = panel1.Height;
                 }
                 else
                 {
-                    if (lanbam == 1)
+                    if (lanbam == 1 )
                     {
                         tknv.Width = panel1.Width;
                         tknv.Height = panel1.Height;
                     }
                     else
                     {
-                        if (lanbam == 2)
+                        if (lanbam == 2 )
                         {
                             cv.Width = panel1.Width;
                             cv.Height = panel1.Height;
                         }
+                        else
+                            if (lanbam == 3 )
+                            {
+                                nhomnd.Width = panel1.Width;
+                                nhomnd.Height = panel1.Height;
+                            }
                        
                     }
                 }
@@ -118,11 +139,14 @@ namespace GiaoDien
 
         private void barButtonItem6_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
-            lanbam = 4;
+            lanbam = 3;
             panel1.Controls.Clear();
-            nv.Width = panel1.Width;
-            nv.Height = panel1.Height;
-            panel1.Controls.Add(nv);
+            nhomnd.Width = panel1.Width;
+            nhomnd.Height = panel1.Height;
+            panel1.Controls.Add(nhomnd);
+            
         }
+
+        
     }
 }

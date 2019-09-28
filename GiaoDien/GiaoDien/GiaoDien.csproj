@@ -35,7 +35,8 @@
     <Reference Include="Bunifu_UI_v1.52">
       <HintPath>..\..\..\Bunifu_UI_v1.52.dll</HintPath>
     </Reference>
-    <Reference Include="DevComponents.DotNetBar2, Version=14.1.0.18, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04, processorArchitecture=MSIL" />
+    <Reference Include="DevComponents.DotNetBar.Schedule, Version=14.1.0.28, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04, processorArchitecture=MSIL" />
+    <Reference Include="DevComponents.DotNetBar2, Version=14.1.0.28, Culture=neutral, PublicKeyToken=7eb7c3a35b91de04, processorArchitecture=MSIL" />
     <Reference Include="DevExpress.Charts.v16.1.Core, Version=16.1.2.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
     <Reference Include="DevExpress.Dashboard.v16.1.Core, Version=16.1.2.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
     <Reference Include="DevExpress.Dashboard.v16.1.Win, Version=16.1.2.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
@@ -90,6 +91,7 @@
     <Reference Include="System.Drawing" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
+    <Reference Include="usercontrol_thietke, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BBSuCo.cs">
@@ -104,6 +106,12 @@
     <Compile Include="CTHD.Designer.cs">
       <DependentUpon>CTHD.cs</DependentUpon>
     </Compile>
+    <Compile Include="Formmain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formmain.Designer.cs">
+      <DependentUpon>Formmain.cs</DependentUpon>
+    </Compile>
     <Compile Include="frm_BaoHanh.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -116,11 +124,53 @@
     <Compile Include="frm_ChiTietNhanVien.Designer.cs">
       <DependentUpon>frm_ChiTietNhanVien.cs</DependentUpon>
     </Compile>
+    <Compile Include="frm_dangnhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_dangnhap.Designer.cs">
+      <DependentUpon>frm_dangnhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_DatHangNCC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_DatHangNCC.Designer.cs">
+      <DependentUpon>frm_DatHangNCC.cs</DependentUpon>
+    </Compile>
     <Compile Include="frm_DDHKhachHang.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frm_DDHKhachHang.Designer.cs">
       <DependentUpon>frm_DDHKhachHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_dmsp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_dmsp.Designer.cs">
+      <DependentUpon>frm_dmsp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_dn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_dn.Designer.cs">
+      <DependentUpon>frm_dn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_hskh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_hskh.Designer.cs">
+      <DependentUpon>frm_hskh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_kh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_kh.Designer.cs">
+      <DependentUpon>frm_kh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_kho.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_kho.Designer.cs">
+      <DependentUpon>frm_kho.cs</DependentUpon>
     </Compile>
     <Compile Include="frm_KhuyenMai.cs">
       <SubType>Form</SubType>
@@ -128,11 +178,53 @@
     <Compile Include="frm_KhuyenMai.Designer.cs">
       <DependentUpon>frm_KhuyenMai.cs</DependentUpon>
     </Compile>
+    <Compile Include="frm_ncc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_ncc.Designer.cs">
+      <DependentUpon>frm_ncc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_nh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_nh.Designer.cs">
+      <DependentUpon>frm_nh.cs</DependentUpon>
+    </Compile>
     <Compile Include="frm_NHANVIEN.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frm_NHANVIEN.Designer.cs">
       <DependentUpon>frm_NHANVIEN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_nhaphang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_nhaphang.Designer.cs">
+      <DependentUpon>frm_nhaphang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_QLPhanQuyen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_QLPhanQuyen.Designer.cs">
+      <DependentUpon>frm_QLPhanQuyen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_sp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_sp.Designer.cs">
+      <DependentUpon>frm_sp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_ThemDDH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_ThemDDH.Designer.cs">
+      <DependentUpon>frm_ThemDDH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_ThemTuFile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_ThemTuFile.Designer.cs">
+      <DependentUpon>frm_ThemTuFile.cs</DependentUpon>
     </Compile>
     <Compile Include="frm_ThongKe.cs">
       <SubType>Form</SubType>
@@ -140,11 +232,11 @@
     <Compile Include="frm_ThongKe.Designer.cs">
       <DependentUpon>frm_ThongKe.cs</DependentUpon>
     </Compile>
-    <Compile Include="NhanVien.cs">
+    <Compile Include="frm_tongquat.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="NhanVien.Designer.cs">
-      <DependentUpon>NhanVien.cs</DependentUpon>
+    <Compile Include="frm_tongquat.Designer.cs">
+      <DependentUpon>frm_tongquat.cs</DependentUpon>
     </Compile>
     <Compile Include="PhanQuyen.cs">
       <SubType>Form</SubType>
@@ -160,11 +252,29 @@
     <Compile Include="QLSuCo.Designer.cs">
       <DependentUpon>QLSuCo.cs</DependentUpon>
     </Compile>
+    <Compile Include="themloaigiay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="themloaigiay.Designer.cs">
+      <DependentUpon>themloaigiay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Tongquat.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Tongquat.Designer.cs">
+      <DependentUpon>UC_Tongquat.cs</DependentUpon>
+    </Compile>
     <Compile Include="us_ChucVu.cs">
       <SubType>UserControl</SubType>
     </Compile>
     <Compile Include="us_ChucVu.Designer.cs">
       <DependentUpon>us_ChucVu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="us_main.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="us_main.Designer.cs">
+      <DependentUpon>us_main.cs</DependentUpon>
     </Compile>
     <Compile Include="us_NhanVien.cs">
       <SubType>UserControl</SubType>
@@ -172,11 +282,17 @@
     <Compile Include="us_NhanVien.Designer.cs">
       <DependentUpon>us_NhanVien.cs</DependentUpon>
     </Compile>
-    <Compile Include="us_QLNhomnguoiDung.cs">
+    <Compile Include="us_NhomND.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="us_QLNhomnguoiDung.Designer.cs">
-      <DependentUpon>us_QLNhomnguoiDung.cs</DependentUpon>
+    <Compile Include="us_NhomND.Designer.cs">
+      <DependentUpon>us_NhomND.cs</DependentUpon>
+    </Compile>
+    <Compile Include="us_sp.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="us_sp.Designer.cs">
+      <DependentUpon>us_sp.cs</DependentUpon>
     </Compile>
     <Compile Include="us_SuCo.cs">
       <SubType>UserControl</SubType>
@@ -226,26 +342,71 @@
     <EmbeddedResource Include="CTHD.resx">
       <DependentUpon>CTHD.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Formmain.resx">
+      <DependentUpon>Formmain.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frm_BaoHanh.resx">
       <DependentUpon>frm_BaoHanh.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frm_ChiTietNhanVien.resx">
       <DependentUpon>frm_ChiTietNhanVien.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frm_dangnhap.resx">
+      <DependentUpon>frm_dangnhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_DatHangNCC.resx">
+      <DependentUpon>frm_DatHangNCC.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frm_DDHKhachHang.resx">
       <DependentUpon>frm_DDHKhachHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_dmsp.resx">
+      <DependentUpon>frm_dmsp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_dn.resx">
+      <DependentUpon>frm_dn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_hskh.resx">
+      <DependentUpon>frm_hskh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_kh.resx">
+      <DependentUpon>frm_kh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_kho.resx">
+      <DependentUpon>frm_kho.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frm_KhuyenMai.resx">
       <DependentUpon>frm_KhuyenMai.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frm_ncc.resx">
+      <DependentUpon>frm_ncc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_nh.resx">
+      <DependentUpon>frm_nh.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="frm_NHANVIEN.resx">
       <DependentUpon>frm_NHANVIEN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_nhaphang.resx">
+      <DependentUpon>frm_nhaphang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_QLPhanQuyen.resx">
+      <DependentUpon>frm_QLPhanQuyen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_sp.resx">
+      <DependentUpon>frm_sp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_ThemDDH.resx">
+      <DependentUpon>frm_ThemDDH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_ThemTuFile.resx">
+      <DependentUpon>frm_ThemTuFile.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frm_ThongKe.resx">
       <DependentUpon>frm_ThongKe.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="NhanVien.resx">
-      <DependentUpon>NhanVien.cs</DependentUpon>
+    <EmbeddedResource Include="frm_tongquat.resx">
+      <DependentUpon>frm_tongquat.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="PhanQuyen.resx">
       <DependentUpon>PhanQuyen.cs</DependentUpon>
@@ -264,14 +425,26 @@
     <EmbeddedResource Include="QLSuCo.resx">
       <DependentUpon>QLSuCo.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="themloaigiay.resx">
+      <DependentUpon>themloaigiay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Tongquat.resx">
+      <DependentUpon>UC_Tongquat.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="us_ChucVu.resx">
       <DependentUpon>us_ChucVu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="us_main.resx">
+      <DependentUpon>us_main.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="us_NhanVien.resx">
       <DependentUpon>us_NhanVien.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="us_QLNhomnguoiDung.resx">
-      <DependentUpon>us_QLNhomnguoiDung.cs</DependentUpon>
+    <EmbeddedResource Include="us_NhomND.resx">
+      <DependentUpon>us_NhomND.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="us_sp.resx">
+      <DependentUpon>us_sp.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="us_SuCo.resx">
       <DependentUpon>us_SuCo.cs</DependentUpon>
@@ -339,6 +512,82 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\search_50px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tải xuống.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Knob-Orange-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Knob-Green-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Knob-Red-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Knob-Green-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tải xuống1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\keyboard_80px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\keyboard_80px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\keyboard_80px2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thungRac1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pencil_tip_48px1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+    <None Include="Resources\abstract-low-poly-design-background_1048-8196.jpg" />
+    <None Include="Resources\background-1462755_960_720.jpg" />
+    <None Include="Resources\user1.png" />
+    <None Include="Resources\3D Web Icon    %28192%29.png" />
+    <None Include="Resources\68-background-dep-danh-cho-moi-linh-vuc-190.jpg" />
+    <None Include="Resources\background-dep-de-ghep-anh-2.jpg" />
+    <None Include="Resources\Shoe-Product-Setup-2.jpg" />
+    <None Include="Resources\images.jpg" />
+    <None Include="Resources\images1.jpg" />
+    <None Include="Resources\thamlong8_grande.jpg" />
+    <Content Include="usercontrol_thietke.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>9</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
