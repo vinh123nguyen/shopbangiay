@@ -1,0 +1,15 @@
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\ThietKeContronl\bin\Debug\ThietKeContronl.dll
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\ThietKeContronl\bin\Debug\ThietKeContronl.pdb
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\ThietKeContronl\obj\Debug\ThietKeContronl.dll
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\ThietKeContronl\obj\Debug\ThietKeContronl.pdb
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\ThietKeContronl\obj\Debug\ThietKeContronl.csprojResolveAssemblyReference.cache
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\ThietKeContronl\bin\Debug\ThietKeContronl.dll
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\ThietKeContronl\bin\Debug\ThietKeContronl.pdb
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\ThietKeContronl\obj\Debug\ThietKeContronl.csprojResolveAssemblyReference.cache
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\ThietKeContronl\obj\Debug\ThietKeContronl.dll
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\ThietKeContronl\obj\Debug\ThietKeContronl.pdb
+E:\codequanlyduan\Win_DA\GiaoDien_Win\ThietKeContronl\bin\Debug\ThietKeContronl.dll
+E:\codequanlyduan\Win_DA\GiaoDien_Win\ThietKeContronl\bin\Debug\ThietKeContronl.pdb
+E:\codequanlyduan\Win_DA\GiaoDien_Win\ThietKeContronl\obj\Debug\ThietKeContronl.csprojResolveAssemblyReference.cache
+E:\codequanlyduan\Win_DA\GiaoDien_Win\ThietKeContronl\obj\Debug\ThietKeContronl.dll
+E:\codequanlyduan\Win_DA\GiaoDien_Win\ThietKeContronl\obj\Debug\ThietKeContronl.pdb

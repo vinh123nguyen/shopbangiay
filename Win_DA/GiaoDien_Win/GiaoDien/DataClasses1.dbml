@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="QLCHBANGIAY" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=LAPTOP-UJQECUIR\SQLEXPRESS;Initial Catalog=QLCHBANGIAY;User ID=sa" SettingsObjectName="GiaoDien.Properties.Settings" SettingsPropertyName="QLCHBANGIAY_MoiConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.QUANLYND" Member="QUANLYNDs">
+    <Type Name="QUANLYND">
+      <Column Name="TENDN" Type="System.String" DbType="NVarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="MK" Type="System.String" DbType="NVarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="HOATDONG" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Association Name="QUANLYND_QLNDNHOMND" Member="QLNDNHOMNDs" ThisKey="TENDN" OtherKey="TENDN" Type="QLNDNHOMND" />
+    </Type>
+  </Table>
+  <Table Name="dbo.QLNDNHOMND" Member="QLNDNHOMNDs">
+    <Type Name="QLNDNHOMND">
+      <Column Name="TENDN" Type="System.String" DbType="NVarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="MANHOM" Type="System.String" DbType="NVarChar(20) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="GHICHU" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="QUANLYND_QLNDNHOMND" Member="QUANLYND" ThisKey="TENDN" OtherKey="TENDN" Type="QUANLYND" IsForeignKey="true" />
+      <Association Name="QLNHOMND_QLNDNHOMND" Member="QLNHOMND" ThisKey="MANHOM" OtherKey="MANHOM" Type="QLNHOMND" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.QLNHOMND" Member="QLNHOMNDs">
+    <Type Name="QLNHOMND">
+      <Column Name="MANHOM" Type="System.String" DbType="NVarChar(20) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TENNHOMND" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="GHICHU" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="QLNHOMND_QLNDNHOMND" Member="QLNDNHOMNDs" ThisKey="MANHOM" OtherKey="MANHOM" Type="QLNDNHOMND" />
+    </Type>
+  </Table>
+</Database>

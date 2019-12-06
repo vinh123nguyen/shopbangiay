@@ -1,0 +1,10 @@
+E:\dulieu\doan_winnc\doan\usercontrol_thietke\bin\Debug\usercontrol_thietke.dll
+E:\dulieu\doan_winnc\doan\usercontrol_thietke\bin\Debug\usercontrol_thietke.pdb
+E:\dulieu\doan_winnc\doan\usercontrol_thietke\bin\Debug\Bunifu_UI_v1.52.dll
+E:\dulieu\doan_winnc\doan\usercontrol_thietke\obj\Debug\usercontrol_thietke.Properties.Resources.resources
+E:\dulieu\doan_winnc\doan\usercontrol_thietke\obj\Debug\usercontrol_thietke.UC_dangnhap.resources
+E:\dulieu\doan_winnc\doan\usercontrol_thietke\obj\Debug\usercontrol_thietke.csproj.GenerateResource.Cache
+E:\dulieu\doan_winnc\doan\usercontrol_thietke\obj\Debug\usercontrol_thietke.dll
+E:\dulieu\doan_winnc\doan\usercontrol_thietke\obj\Debug\usercontrol_thietke.pdb
+E:\dulieu\doan_winnc\doan\usercontrol_thietke\obj\Debug\usercontrol_thietke.UserControl1_Themptb.resources
+E:\dulieu\doan_winnc\doan\usercontrol_thietke\obj\Debug\usercontrol_thietke.csprojResolveAssemblyReference.cache

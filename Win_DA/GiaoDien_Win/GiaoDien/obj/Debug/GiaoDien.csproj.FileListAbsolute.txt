@@ -1,0 +1,321 @@
+E:\dulieu\winnc\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\bin\Debug\GiaoDien.exe.config
+E:\dulieu\winnc\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.csproj.ResolveComReference.cache
+E:\dulieu\winnc\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.csprojResolveAssemblyReference.cache
+E:\dulieu\winnc\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.BBSuCo.resources
+E:\dulieu\winnc\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.CTHD.resources
+E:\dulieu\winnc\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.Formmain.resources
+E:\dulieu\winnc\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_BaoHanh.resources
+E:\dulieu\winnc\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_ChiTietNhanVien.resources
+E:\dulieu\winnc\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_DatHangNCC.resources
+E:\dulieu\winnc\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_DDHKhachHang.resources
+E:\dulieu\winnc\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_dmsp.resources
+E:\dulieu\winnc\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_dn.resources
+E:\dulieu\winnc\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_hskh.resources
+E:\dulieu\winnc\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_kh.resources
+E:\dulieu\winnc\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_kho.resources
+E:\dulieu\winnc\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_KhuyenMai.resources
+E:\dulieu\winnc\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_ncc.resources
+E:\dulieu\winnc\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_nh.resources
+E:\dulieu\winnc\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_NHANVIEN.resources
+E:\dulieu\winnc\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_nhaphang.resources
+E:\dulieu\winnc\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_QLPhanQuyen.resources
+E:\dulieu\winnc\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_sp.resources
+E:\dulieu\winnc\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_ThemDDH.resources
+E:\dulieu\winnc\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_ThemTuFile.resources
+E:\dulieu\winnc\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_ThongKe.resources
+E:\dulieu\winnc\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_tongquat.resources
+E:\dulieu\winnc\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.PhanQuyen.resources
+E:\dulieu\winnc\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.Properties.Resources.resources
+E:\dulieu\winnc\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.QLSuCo.resources
+E:\dulieu\winnc\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.themloaigiay.resources
+E:\dulieu\winnc\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.UC_Tongquat.resources
+E:\dulieu\winnc\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_ChucVu.resources
+E:\dulieu\winnc\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_main.resources
+E:\dulieu\winnc\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_NhanVien.resources
+E:\dulieu\winnc\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_NhomND.resources
+E:\dulieu\winnc\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_sp.resources
+E:\dulieu\winnc\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_SuCo.resources
+E:\dulieu\winnc\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.Them_CTHD.resources
+E:\dulieu\winnc\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.Them_NV.resources
+E:\dulieu\winnc\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.User_ds.resources
+E:\dulieu\winnc\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_CuoiNam.resources
+E:\dulieu\winnc\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_TaiKhoanNV.resources
+E:\dulieu\winnc\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_ThemDMTK.resources
+E:\dulieu\winnc\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.csproj.GenerateResource.Cache
+E:\dulieu\winnc\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.exe.licenses
+E:\dulieu\winnc\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\bin\Debug\GiaoDien.exe
+E:\dulieu\winnc\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\bin\Debug\GiaoDien.pdb
+E:\dulieu\winnc\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\bin\Debug\Bunifu_UI_v1.52.dll
+E:\dulieu\winnc\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\bin\Debug\usercontrol_thietke.dll
+E:\dulieu\winnc\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.exe
+E:\dulieu\winnc\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.pdb
+E:\dulieu\winnc\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_dangnhap.resources
+E:\dulieu\winnc\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_kn.resources
+E:\dulieu\winnc\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.Form1.resources
+E:\Nam4\WinNangCao\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\bin\Debug\GiaoDien.exe.config
+E:\Nam4\WinNangCao\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.csproj.ResolveComReference.cache
+E:\Nam4\WinNangCao\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.exe
+E:\Nam4\WinNangCao\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.pdb
+E:\Nam4\WinNangCao\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.csprojResolveAssemblyReference.cache
+E:\Nam4\WinNangCao\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.BBSuCo.resources
+E:\Nam4\WinNangCao\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.CTHD.resources
+E:\Nam4\WinNangCao\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.Form1.resources
+E:\Nam4\WinNangCao\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.Formmain.resources
+E:\Nam4\WinNangCao\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_BaoHanh.resources
+E:\Nam4\WinNangCao\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_ChiTietNhanVien.resources
+E:\Nam4\WinNangCao\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_dangnhap.resources
+E:\Nam4\WinNangCao\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_DatHangNCC.resources
+E:\Nam4\WinNangCao\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_DDHKhachHang.resources
+E:\Nam4\WinNangCao\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_dmsp.resources
+E:\Nam4\WinNangCao\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_dn.resources
+E:\Nam4\WinNangCao\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_hskh.resources
+E:\Nam4\WinNangCao\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_kh.resources
+E:\Nam4\WinNangCao\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_kho.resources
+E:\Nam4\WinNangCao\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_KhuyenMai.resources
+E:\Nam4\WinNangCao\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_kn.resources
+E:\Nam4\WinNangCao\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_ncc.resources
+E:\Nam4\WinNangCao\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_nh.resources
+E:\Nam4\WinNangCao\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_NHANVIEN.resources
+E:\Nam4\WinNangCao\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_nhaphang.resources
+E:\Nam4\WinNangCao\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_QLPhanQuyen.resources
+E:\Nam4\WinNangCao\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_sp.resources
+E:\Nam4\WinNangCao\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_ThemDDH.resources
+E:\Nam4\WinNangCao\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_ThemTuFile.resources
+E:\Nam4\WinNangCao\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_ThongKe.resources
+E:\Nam4\WinNangCao\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_tongquat.resources
+E:\Nam4\WinNangCao\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.PhanQuyen.resources
+E:\Nam4\WinNangCao\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.Properties.Resources.resources
+E:\Nam4\WinNangCao\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.QLSuCo.resources
+E:\Nam4\WinNangCao\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.themloaigiay.resources
+E:\Nam4\WinNangCao\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.UC_Tongquat.resources
+E:\Nam4\WinNangCao\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_ChucVu.resources
+E:\Nam4\WinNangCao\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_main.resources
+E:\Nam4\WinNangCao\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_NhanVien.resources
+E:\Nam4\WinNangCao\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_NhomND.resources
+E:\Nam4\WinNangCao\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_sp.resources
+E:\Nam4\WinNangCao\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_SuCo.resources
+E:\Nam4\WinNangCao\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.Them_CTHD.resources
+E:\Nam4\WinNangCao\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.Them_NV.resources
+E:\Nam4\WinNangCao\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.User_ds.resources
+E:\Nam4\WinNangCao\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_CuoiNam.resources
+E:\Nam4\WinNangCao\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_TaiKhoanNV.resources
+E:\Nam4\WinNangCao\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_ThemDMTK.resources
+E:\Nam4\WinNangCao\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.csproj.GenerateResource.Cache
+E:\Nam4\WinNangCao\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.exe.licenses
+E:\Nam4\WinNangCao\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\bin\Debug\GiaoDien.exe
+E:\Nam4\WinNangCao\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\bin\Debug\GiaoDien.pdb
+E:\Nam4\WinNangCao\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\bin\Debug\usercontrol_thietke.dll
+E:\Nam4\WinNangCao\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\hp laptop\Desktop\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\bin\Debug\GiaoDien.exe.config
+C:\Users\hp laptop\Desktop\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.csproj.ResolveComReference.cache
+C:\Users\hp laptop\Desktop\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.exe
+C:\Users\hp laptop\Desktop\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.pdb
+C:\Users\hp laptop\Desktop\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\bin\Debug\GiaoDien.exe
+C:\Users\hp laptop\Desktop\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\bin\Debug\GiaoDien.pdb
+C:\Users\hp laptop\Desktop\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\bin\Debug\usercontrol_thietke.dll
+C:\Users\hp laptop\Desktop\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.csprojResolveAssemblyReference.cache
+C:\Users\hp laptop\Desktop\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.BBSuCo.resources
+C:\Users\hp laptop\Desktop\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.CTHD.resources
+C:\Users\hp laptop\Desktop\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.Form1.resources
+C:\Users\hp laptop\Desktop\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.Formmain.resources
+C:\Users\hp laptop\Desktop\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_BaoHanh.resources
+C:\Users\hp laptop\Desktop\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_ChiTietNhanVien.resources
+C:\Users\hp laptop\Desktop\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_dangnhap.resources
+C:\Users\hp laptop\Desktop\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_DatHangNCC.resources
+C:\Users\hp laptop\Desktop\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_DDHKhachHang.resources
+C:\Users\hp laptop\Desktop\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_dmsp.resources
+C:\Users\hp laptop\Desktop\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_dn.resources
+C:\Users\hp laptop\Desktop\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_hskh.resources
+C:\Users\hp laptop\Desktop\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_kh.resources
+C:\Users\hp laptop\Desktop\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_kho.resources
+C:\Users\hp laptop\Desktop\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_KhuyenMai.resources
+C:\Users\hp laptop\Desktop\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_kn.resources
+C:\Users\hp laptop\Desktop\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_ncc.resources
+C:\Users\hp laptop\Desktop\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_nh.resources
+C:\Users\hp laptop\Desktop\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_NHANVIEN.resources
+C:\Users\hp laptop\Desktop\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_nhaphang.resources
+C:\Users\hp laptop\Desktop\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_QLPhanQuyen.resources
+C:\Users\hp laptop\Desktop\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_sp.resources
+C:\Users\hp laptop\Desktop\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_ThemDDH.resources
+C:\Users\hp laptop\Desktop\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_ThemTuFile.resources
+C:\Users\hp laptop\Desktop\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_ThongKe.resources
+C:\Users\hp laptop\Desktop\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_tongquat.resources
+C:\Users\hp laptop\Desktop\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.PhanQuyen.resources
+C:\Users\hp laptop\Desktop\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.Properties.Resources.resources
+C:\Users\hp laptop\Desktop\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.QLSuCo.resources
+C:\Users\hp laptop\Desktop\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.themloaigiay.resources
+C:\Users\hp laptop\Desktop\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.UC_Tongquat.resources
+C:\Users\hp laptop\Desktop\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_ChucVu.resources
+C:\Users\hp laptop\Desktop\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_main.resources
+C:\Users\hp laptop\Desktop\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_NhanVien.resources
+C:\Users\hp laptop\Desktop\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_NhomND.resources
+C:\Users\hp laptop\Desktop\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_sp.resources
+C:\Users\hp laptop\Desktop\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_SuCo.resources
+C:\Users\hp laptop\Desktop\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.Them_CTHD.resources
+C:\Users\hp laptop\Desktop\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.Them_NV.resources
+C:\Users\hp laptop\Desktop\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.User_ds.resources
+C:\Users\hp laptop\Desktop\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_CuoiNam.resources
+C:\Users\hp laptop\Desktop\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_TaiKhoanNV.resources
+C:\Users\hp laptop\Desktop\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_ThemDMTK.resources
+C:\Users\hp laptop\Desktop\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.csproj.GenerateResource.Cache
+C:\Users\hp laptop\Desktop\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.exe.licenses
+E:\dulieu\winnc\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\bin\Debug\GiaoDien.exe.config
+E:\dulieu\winnc\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.csproj.ResolveComReference.cache
+E:\dulieu\winnc\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.exe
+E:\dulieu\winnc\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.pdb
+E:\dulieu\winnc\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\bin\Debug\GiaoDien.exe
+E:\dulieu\winnc\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\bin\Debug\GiaoDien.pdb
+E:\dulieu\winnc\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\bin\Debug\usercontrol_thietke.dll
+E:\dulieu\winnc\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.csprojResolveAssemblyReference.cache
+E:\dulieu\winnc\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.BBSuCo.resources
+E:\dulieu\winnc\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.CTHD.resources
+E:\dulieu\winnc\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.Form1.resources
+E:\dulieu\winnc\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.Formmain.resources
+E:\dulieu\winnc\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_BaoHanh.resources
+E:\dulieu\winnc\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_ChiTietNhanVien.resources
+E:\dulieu\winnc\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_dangnhap.resources
+E:\dulieu\winnc\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_DatHangNCC.resources
+E:\dulieu\winnc\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_DDHKhachHang.resources
+E:\dulieu\winnc\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_dmsp.resources
+E:\dulieu\winnc\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_dn.resources
+E:\dulieu\winnc\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_hskh.resources
+E:\dulieu\winnc\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_kh.resources
+E:\dulieu\winnc\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_kho.resources
+E:\dulieu\winnc\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_KhuyenMai.resources
+E:\dulieu\winnc\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_kn.resources
+E:\dulieu\winnc\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_ncc.resources
+E:\dulieu\winnc\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_nh.resources
+E:\dulieu\winnc\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_NHANVIEN.resources
+E:\dulieu\winnc\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_nhaphang.resources
+E:\dulieu\winnc\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_QLPhanQuyen.resources
+E:\dulieu\winnc\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_sp.resources
+E:\dulieu\winnc\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_ThemDDH.resources
+E:\dulieu\winnc\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_ThemTuFile.resources
+E:\dulieu\winnc\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_ThongKe.resources
+E:\dulieu\winnc\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_tongquat.resources
+E:\dulieu\winnc\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.PhanQuyen.resources
+E:\dulieu\winnc\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.Properties.Resources.resources
+E:\dulieu\winnc\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.QLSuCo.resources
+E:\dulieu\winnc\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.themloaigiay.resources
+E:\dulieu\winnc\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.UC_Tongquat.resources
+E:\dulieu\winnc\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_ChucVu.resources
+E:\dulieu\winnc\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_main.resources
+E:\dulieu\winnc\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_NhanVien.resources
+E:\dulieu\winnc\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_NhomND.resources
+E:\dulieu\winnc\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_sp.resources
+E:\dulieu\winnc\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_SuCo.resources
+E:\dulieu\winnc\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.Them_CTHD.resources
+E:\dulieu\winnc\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.Them_NV.resources
+E:\dulieu\winnc\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.User_ds.resources
+E:\dulieu\winnc\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_CuoiNam.resources
+E:\dulieu\winnc\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_TaiKhoanNV.resources
+E:\dulieu\winnc\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_ThemDMTK.resources
+E:\dulieu\winnc\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.csproj.GenerateResource.Cache
+E:\dulieu\winnc\GiaoDien_10_11_2\GiaoDien_10_11\GiaoDien_28_9_2\GiaoDien_28_9\GiaoDien\GiaoDien\obj\Debug\GiaoDien.exe.licenses
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\GiaoDien\bin\Debug\GiaoDien.exe.config
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\GiaoDien\obj\Debug\GiaoDien.csproj.ResolveComReference.cache
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\GiaoDien\obj\Debug\GiaoDien.exe
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\GiaoDien\obj\Debug\GiaoDien.pdb
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\GiaoDien\bin\Debug\GiaoDien.exe
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\GiaoDien\bin\Debug\GiaoDien.pdb
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\GiaoDien\bin\Debug\usercontrol_thietke.dll
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\GiaoDien\obj\Debug\GiaoDien.csprojResolveAssemblyReference.cache
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\GiaoDien\obj\Debug\GiaoDien.BBSuCo.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\GiaoDien\obj\Debug\GiaoDien.CTHD.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\GiaoDien\obj\Debug\GiaoDien.Form1.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\GiaoDien\obj\Debug\GiaoDien.Formmain.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_BaoHanh.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_ChiTietNhanVien.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_dangnhap.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_DatHangNCC.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_dmsp.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_hskh.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_kh.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_kho.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_KhuyenMai.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_kn.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_ncc.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_nh.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_NHANVIEN.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_nhaphang.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_QLPhanQuyen.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_sp.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_ThemDDH.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_ThemTuFile.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_ThongKe.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_tongquat.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\GiaoDien\obj\Debug\GiaoDien.PhanQuyen.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\GiaoDien\obj\Debug\GiaoDien.Properties.Resources.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\GiaoDien\obj\Debug\GiaoDien.QLSuCo.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\GiaoDien\obj\Debug\GiaoDien.themloaigiay.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\GiaoDien\obj\Debug\GiaoDien.UC_Tongquat.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_ChucVu.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_main.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_NhanVien.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_NhomND.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_sp.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_SuCo.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\GiaoDien\obj\Debug\GiaoDien.Them_CTHD.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\GiaoDien\obj\Debug\GiaoDien.Them_NV.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\GiaoDien\obj\Debug\GiaoDien.User_ds.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_CuoiNam.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_TaiKhoanNV.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_ThemDMTK.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\GiaoDien\obj\Debug\GiaoDien.csproj.GenerateResource.Cache
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\GiaoDien\obj\Debug\GiaoDien.exe.licenses
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\GiaoDien\obj\Debug\GiaoDien.DDHKhachHang.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\GiaoDien\bin\Debug\ThietKeContronl.dll
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\New folder\GiaoDien\GiaoDien\bin\Debug\ThietKeContronl.pdb
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\GiaoDien\bin\Debug\GiaoDien.exe.config
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\GiaoDien\obj\Debug\GiaoDien.csproj.ResolveComReference.cache
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\GiaoDien\obj\Debug\GiaoDien.exe
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\GiaoDien\obj\Debug\GiaoDien.pdb
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\GiaoDien\bin\Debug\GiaoDien.exe
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\GiaoDien\bin\Debug\GiaoDien.pdb
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\GiaoDien\bin\Debug\ThietKeContronl.dll
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\GiaoDien\bin\Debug\usercontrol_thietke.dll
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\GiaoDien\bin\Debug\ThietKeContronl.pdb
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\GiaoDien\obj\Debug\GiaoDien.csprojResolveAssemblyReference.cache
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\GiaoDien\obj\Debug\GiaoDien.BBSuCo.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\GiaoDien\obj\Debug\GiaoDien.CTHD.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\GiaoDien\obj\Debug\GiaoDien.Form1.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\GiaoDien\obj\Debug\GiaoDien.Formmain.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_BaoHanh.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_ChiTietNhanVien.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_dangnhap.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_DatHangNCC.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_dmsp.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_hskh.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_kh.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_kho.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_KhuyenMai.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_kn.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_ncc.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_nh.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_NHANVIEN.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_nhaphang.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_QLPhanQuyen.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_sp.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_ThemDDH.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_ThemTuFile.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_ThongKe.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\GiaoDien\obj\Debug\GiaoDien.frm_tongquat.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\GiaoDien\obj\Debug\GiaoDien.Properties.Resources.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\GiaoDien\obj\Debug\GiaoDien.QLSuCo.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\GiaoDien\obj\Debug\GiaoDien.themloaigiay.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\GiaoDien\obj\Debug\GiaoDien.DDHKhachHang.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\GiaoDien\obj\Debug\GiaoDien.UC_Tongquat.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_ChucVu.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_main.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_NhanVien.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_NhomND.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_sp.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_SuCo.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\GiaoDien\obj\Debug\GiaoDien.Them_CTHD.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\GiaoDien\obj\Debug\GiaoDien.Them_NV.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\GiaoDien\obj\Debug\GiaoDien.User_ds.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_CuoiNam.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_TaiKhoanNV.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\GiaoDien\obj\Debug\GiaoDien.us_ThemDMTK.resources
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\GiaoDien\obj\Debug\GiaoDien.csproj.GenerateResource.Cache
+E:\Nam4\WinNangCao\GiaoDienMoiNhat\DOAN\GiaoDien\GiaoDien\obj\Debug\GiaoDien.exe.licenses

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="DataClasses1">
+  <DataContextMoniker Name="/DataClasses1DataContext" />
+  <nestedChildShapes>
+    <classShape Id="7145fbb5-5814-4bac-9fb1-f8e70191faf6" absoluteBounds="0.5, 0.875, 2, 1.3862939453125">
+      <DataClassMoniker Name="/DataClasses1DataContext/QUANLYND" />
+      <nestedChildShapes>
+        <elementListCompartment Id="748c2044-55bb-4053-b5a9-31325b9667a5" absoluteBounds="0.51499999999999968, 1.335, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="74523a05-9556-4bb7-8891-3bf06207ec21" absoluteBounds="3.375, 0.75, 2, 1.3862939453125">
+      <DataClassMoniker Name="/DataClasses1DataContext/QLNDNHOMND" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e3eb81ff-03d2-42c4-8db3-2f90aba80d49" absoluteBounds="3.3899999999999997, 1.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.5 : 1.50564697265625); (3.375 : 1.50564697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/QUANLYND/QUANLYND_QLNDNHOMND" />
+      <nodes>
+        <classShapeMoniker Id="7145fbb5-5814-4bac-9fb1-f8e70191faf6" />
+        <classShapeMoniker Id="74523a05-9556-4bb7-8891-3bf06207ec21" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="fd202d55-d582-45c5-bbf0-f3bea761e9f4" absoluteBounds="2.875, 2.75, 2, 1.3862939453125">
+      <DataClassMoniker Name="/DataClasses1DataContext/QLNHOMND" />
+      <nestedChildShapes>
+        <elementListCompartment Id="03dc2862-a668-4366-a04d-509d5ae92c23" absoluteBounds="2.8899999999999997, 3.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(4.125 : 2.75); (4.125 : 2.1362939453125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/DataClasses1DataContext/QLNHOMND/QLNHOMND_QLNDNHOMND" />
+      <nodes>
+        <classShapeMoniker Id="fd202d55-d582-45c5-bbf0-f3bea761e9f4" />
+        <classShapeMoniker Id="74523a05-9556-4bb7-8891-3bf06207ec21" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
